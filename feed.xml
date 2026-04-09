@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>newarkbankruptcy.org -- Bankruptcy Information</title>
+  <subtitle>Free bankruptcy information and guides from the Open Bankruptcy Project</subtitle>
+  <link href="https://newarkbankruptcy.org/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://newarkbankruptcy.org/" rel="alternate" type="text/html"/>
+  <id>https://newarkbankruptcy.org/</id>
+  <updated>2026-04-08T00:00:00Z</updated>
+  <author>
+    <name>Open Bankruptcy Project</name>
+    <uri>https://openbankruptcyproject.org</uri>
+  </author>
+  <rights>Copyright 2026 Open Bankruptcy Project</rights>
+  <entry>
+    <title>Newark Bankruptcy -- Chapter 7 &amp; 13 Filing Guide [2026]</title>
+    <link href="https://newarkbankruptcy.org/" rel="alternate"/>
+    <id>https://newarkbankruptcy.org/</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Free Newark bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, local exemptions, filing costs, means test, and what to expect in your case.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>341 Meeting of Creditors in Newark, New Jersey -- What to Expect</title>
+    <link href="https://newarkbankruptcy.org/341-meeting.html" rel="alternate"/>
+    <id>https://newarkbankruptcy.org/341-meeting.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Guide to the 341 meeting for Newark bankruptcy filers. What to bring, what questions are asked, and where it is held.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Automatic Stay in Newark Bankruptcy -- Stop Collections, Foreclosure, Garnishment</title>
+    <link href="https://newarkbankruptcy.org/automatic-stay.html" rel="alternate"/>
+    <id>https://newarkbankruptcy.org/automatic-stay.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>How the automatic stay protects Newark residents when they file bankruptcy. Stops collections, foreclosure, repossession, and wage garnishment.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Bank Account and Bankruptcy in Newark</title>
+    <link href="https://newarkbankruptcy.org/bank-account.html" rel="alternate"/>
+    <id>https://newarkbankruptcy.org/bank-account.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>How bankruptcy affects your bank account in Newark. Protecting funds, bank freezes, exemptions, and what New Jersey filers need to know.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Can I Buy a Car While in Chapter 13? -- Newarkbk</title>
+    <link href="https://newarkbankruptcy.org/buy-car-chapter-13.html" rel="alternate"/>
+    <id>https://newarkbankruptcy.org/buy-car-chapter-13.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>You need trustee approval and a court motion to purchase a vehicle during Chapter 13. [Newarkbk ]</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Buying a House After Bankruptcy in Newark</title>
+    <link href="https://newarkbankruptcy.org/buying-a-house.html" rel="alternate"/>
+    <id>https://newarkbankruptcy.org/buying-a-house.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>When and how to buy a house after bankruptcy in Newark. FHA, VA, USDA waiting periods and credit rebuilding for New Jersey homebuyers.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Car Leases and Bankruptcy -- Newarkbk</title>
+    <link href="https://newarkbankruptcy.org/car-lease.html" rel="alternate"/>
+    <id>https://newarkbankruptcy.org/car-lease.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>You have 60 days after filing to decide whether to assume (keep) or reject (surrender) your car lease. [Newarkbk ]</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Chapter 13 Eligibility in Newark | Requirements &amp; Debt Limits</title>
+    <link href="https://newarkbankruptcy.org/chapter-13-eligibility.html" rel="alternate"/>
+    <id>https://newarkbankruptcy.org/chapter-13-eligibility.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Chapter 13 eligibility in Newark. Debt limits, income requirements, and qualification criteria for New Jersey filers in the District of New Jersey.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Chapter 13 Payments in Newark | How Much Will You Pay?</title>
+    <link href="https://newarkbankruptcy.org/chapter-13-payments.html" rel="alternate"/>
+    <id>https://newarkbankruptcy.org/chapter-13-payments.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>How Chapter 13 plan payments are calculated in Newark. Disposable income, best interest test, payment timeline for District of New Jersey filers.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+  <entry>
+    <title>Chapter 13 Bankruptcy in Newark -- Payment Plans, Dismissal Rates, Timeline</title>
+    <link href="https://newarkbankruptcy.org/chapter-13.html" rel="alternate"/>
+    <id>https://newarkbankruptcy.org/chapter-13.html</id>
+    <updated>2026-04-08T00:00:00Z</updated>
+    <summary>Guide to Chapter 13 bankruptcy in Newark. Payment plan basics, D.N.J. dismissal rate (61.2%), timeline, and what to expect.</summary>
+    <author>
+      <name>Open Bankruptcy Project</name>
+      <uri>https://openbankruptcyproject.org</uri>
+    </author>
+  </entry>
+</feed>
