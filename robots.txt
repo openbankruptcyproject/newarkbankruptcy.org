@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
-Sitemap: https://newarkbankruptcy.org/sitemap.xml
 
-Sitemap: https://newarkbankruptcy.org/feed.xml
+
+Sitemap: https://newarkbankruptcy.org/sitemapindex.xml
