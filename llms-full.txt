@@ -1,6 +1,6 @@
 # newarkbankruptcy.org -- Full Content
 
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 This file contains the full text content of all pages on newarkbankruptcy.org.
 Part of the Open Bankruptcy Project (openbankruptcyproject.org).
@@ -19,6 +19,8 @@ Home›341 Meeting of Creditors in Newark
 341 Meeting of Creditors in Newark
 
 The 341 meeting is a required step in every bankruptcy case. Despite its name, creditors rarely attend.
+
+The 341 meeting is a brief hearing where the bankruptcy trustee asks you questions under oath about your finances. It usually lasts 5-10 minutes.
 
 What to Bring
 
@@ -97,15 +99,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -128,6 +148,8 @@ Home›The Automatic Stay in Newark Bankruptcy
 The Automatic Stay in Newark Bankruptcy
 
 The automatic stay is one of the most powerful protections in bankruptcy. It takes effect the instant your petition is filed.
+
+The automatic stay immediately stops collection calls, lawsuits, garnishments, foreclosures, and repossessions the moment your bankruptcy petition is filed.
 
 What the Automatic Stay Stops
 
@@ -206,15 +228,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -239,6 +279,8 @@ Your Bank Account and Bankruptcy in Newark
 Filing bankruptcy raises questions about bank freezes, fund seizure, and account protection. Here is what Newark residents need to know.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Only if you owe money to that bank. If not, your account should not be frozen. To be safe, open an account at a bank where you have no debts.
 
 Will My Bank Account Be Frozen?
 
@@ -341,15 +383,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -372,6 +432,8 @@ Home›Can I Buy a Car While in Chapter 13?
 Can I Buy a Car While in Chapter 13?
 
 A free guide for New Jersey residents considering bankruptcy. Filed in D.N.J..
+
+You need trustee approval and a court motion to purchase a vehicle during Chapter 13. The trustee will evaluate whether the purchase is necessary and whether the payment fits your budget. Interest rates are typically higher. Used vehicles are more likely to be approved.
 
 What You Need to Know
 
@@ -416,13 +478,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -447,6 +529,8 @@ Buying a House After Bankruptcy in Newark
 Bankruptcy does not permanently prevent homeownership. Here are the waiting periods, loan options, and steps for Newark area homebuyers.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+FHA: 2 years after Ch. 7 discharge, 1 year into Ch. 13 plan. Conventional: 4 years. Extenuating circumstances may shorten FHA to 1 year.
 
 Waiting Periods by Loan Type
 
@@ -551,15 +635,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -582,6 +684,8 @@ Home›Car Leases and Bankruptcy
 Car Leases and Bankruptcy
 
 A free guide for New Jersey residents considering bankruptcy. Filed in D.N.J..
+
+You have 60 days after filing to decide whether to assume (keep) or reject (surrender) your car lease. If you are current on payments, you can typically keep the lease by assuming it. If behind, rejection discharges the remaining obligation. Lease buyout may be an option if you want to own the vehic
 
 What You Need to Know
 
@@ -626,13 +730,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -644,7 +768,7 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 ---
 
-## Chapter 13 Eligibility in Newark | Requirements & Debt Limits
+## Chapter 13 Eligibility in Newark | Requirements &amp; Debt Limits
 Source: https://newarkbankruptcy.org/chapter-13-eligibility.html
 
 Newark Bankruptcy Guide
@@ -657,6 +781,8 @@ Chapter 13 Eligibility in Newark
 Chapter 13 lets you keep property while repaying debts over 3-5 years. Here are the requirements for Newark filers.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+As of April 1, 2025, the limits are $526,700 in noncontingent, liquidated unsecured debts and $1,580,125 in secured debts. If debts exceed this, Chapter 11 may be an option.
 
 Basic Requirements
 
@@ -761,15 +887,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -794,6 +938,8 @@ Chapter 13 Payments in Newark
 Your Chapter 13 payment depends on income, expenses, debts, and assets. Here is how payments work in the District of New Jersey.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Depends on income, expenses, debts, and assets. Must cover priority debts in full plus your disposable income. Ranges from hundreds to thousands monthly.
 
 How Payments Are Calculated
 
@@ -908,15 +1054,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -957,6 +1121,8 @@ Plan Duration
 $313
 
 Filing Fee
+
+The District of New Jersey has a 61.2% Chapter 13 dismissal rate based on FJC data from 119,583 cases (2008-2024). The prior filer rate is 31.6%.
 
 What Is Chapter 13?
 
@@ -1074,15 +1240,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -1094,7 +1278,7 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 ---
 
-## Chapter 7 Eligibility in Newark | Means Test & Requirements
+## Chapter 7 Eligibility in Newark | Means Test &amp; Requirements
 Source: https://newarkbankruptcy.org/chapter-7-eligibility.html
 
 Newark Bankruptcy Guide
@@ -1107,6 +1291,8 @@ Chapter 7 Eligibility in Newark
 Not everyone qualifies for Chapter 7. The means test determines eligibility based on your income and expenses.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+No hard limit. The means test threshold is the New Jersey median: $68,047 for 1 person. Below = automatic qualification. Above = full calculation with expense deductions.
 
 The Means Test
 
@@ -1209,15 +1395,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -1240,6 +1444,8 @@ Home›Chapter 7
 Chapter 7 Bankruptcy in Newark
 
 Chapter 7 is the fastest path to debt relief. Most unsecured debts are eliminated in 3-4 months. Here is what Newark residents need to know.
+
+Chapter 7 discharges most unsecured debts including credit cards, medical bills, personal loans, and old utility bills. It does not discharge student loans (in most cases), recent taxes, child support, alimony, or debts incurred through fraud.
 
 What Is Chapter 7?
 
@@ -1293,13 +1499,13 @@ New Jersey Exemptions in Chapter 7
 
 New Jersey is not an opt-out state, so filers can choose either the federal bankruptcy exemptions or New Jersey's own exemptions. New Jersey's state exemptions are limited (there is no state homestead exemption), so most New Jersey filers choose the federal system.
 
-PropertyNew Jersey Exemption
+PropertyFederal Exemption (most NJ filers)
 
 Homestead$31,575 (federal)
 
 Vehicle$5,025 (federal)
 
-Personal property$1,475 per item (federal)
+Personal propertyHousehold goods $800 per item ($16,850 total) plus a $1,675 wildcard (federal)
 
 Retirement (IRA/401k)Fully exempt
 
@@ -1335,7 +1541,7 @@ From filing to discharge, typically 3-4 months. The 341 meeting occurs about 30 
 
 What property can I keep in Chapter 7?
 
-New Jersey exemptions protect homestead equity up to $31,575 (federal), vehicle up to $5,025 (federal), and personal property up to $1,475 per item (federal). Full exemption details.
+New Jersey exemptions protect homestead equity up to $31,575 (federal), vehicle up to $5,025 (federal), and household goods up to $800 per item ($16,850 total) plus a $1,675 wildcard (federal). Full exemption details.
 
 Check Your Eligibility
 
@@ -1371,15 +1577,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -1402,6 +1626,8 @@ Home›Bankruptcy Filing Checklist for Newark
 Bankruptcy Filing Checklist for Newark
 
 Use this checklist to prepare for your bankruptcy filing. Being organized speeds up the process and reduces costs.
+
+You need tax returns (2 years), pay stubs (6 months), bank statements (6 months), a list of all debts, asset values, and monthly expenses.
 
 Documents to Gather
 
@@ -1504,15 +1730,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -1535,6 +1779,8 @@ Home » Cities » Bayonne, NJ
 Bankruptcy in Bayonne, NJ
 
 Bayonne is a city on a peninsula in Hudson County, bordered by Newark Bay and New York Bay. It is connected to Staten Island by the Bayonne Bridge and has experienced significant residential development.
+
+Bayonne residents file in the District of New Jersey at 50 Walnut St, Newark, NJ 07102. The drive is approximately 20-25 minutes north via NJ Turnpike.
 
 Key Information
 
@@ -1658,6 +1904,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Clifton, NJ - Newark Bankruptcy Guide
@@ -1671,6 +1919,8 @@ Home » Cities » Clifton, NJ
 Bankruptcy in Clifton, NJ
 
 Clifton is one of the most populous cities in New Jersey, located in Passaic County. It is a diverse residential community with a mix of suburban neighborhoods and commercial areas along Route 46 and Route 3.
+
+Clifton residents file in the District of New Jersey at 50 Walnut St, Newark, NJ 07102. The drive from Clifton is approximately 15-20 minutes southeast.
 
 Key Information
 
@@ -1798,6 +2048,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in East Orange, NJ - Newark Bankruptcy Guide
@@ -1811,6 +2063,8 @@ Home » Cities » East Orange, NJ
 Bankruptcy in East Orange, NJ
 
 East Orange is a city in Essex County directly adjacent to Newark. It is a predominantly African American community that has been working to revitalize its downtown and residential neighborhoods.
+
+East Orange residents file in the District of New Jersey at 50 Walnut St, Newark, NJ 07102. The courthouse is approximately 10 minutes west in downtown Newark - one of the closest suburbs to the courthouse.
 
 Key Information
 
@@ -1936,6 +2190,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Elizabeth, NJ - Newark Bankruptcy Guide
@@ -1949,6 +2205,8 @@ Home » Cities » Elizabeth, NJ
 Bankruptcy in Elizabeth, NJ
 
 Elizabeth is the county seat of Union County and the fourth-largest city in New Jersey. It is one of the oldest cities in the state and sits adjacent to Newark Liberty International Airport.
+
+Elizabeth residents file in the District of New Jersey at 50 Walnut St, Newark, NJ 07102. The courthouse is approximately 15 minutes north of Elizabeth.
 
 Key Information
 
@@ -2076,6 +2334,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Fort Lee, NJ - Newark Bankruptcy Guide
@@ -2089,6 +2349,8 @@ Home » Cities » Fort Lee, NJ
 Bankruptcy in Fort Lee, NJ
 
 Fort Lee is a borough in Bergen County at the western approach to the George Washington Bridge. It is a major residential community with a large Korean-American population and views of the Manhattan skyline.
+
+Fort Lee residents file in the District of New Jersey at 50 Walnut St, Newark, NJ 07102. The drive is approximately 25-30 minutes south. Despite being adjacent to the George Washington Bridge, Fort Lee is in New Jersey's federal court system.
 
 Key Information
 
@@ -2212,6 +2474,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Hackensack, NJ - Newark Bankruptcy Guide
@@ -2225,6 +2489,8 @@ Home » Cities » Hackensack, NJ
 Bankruptcy in Hackensack, NJ
 
 Hackensack is the county seat of Bergen County and a major commercial and medical center in northern New Jersey. It is home to Hackensack University Medical Center, one of the largest hospitals in the state.
+
+Hackensack residents file in the District of New Jersey at 50 Walnut St, Newark, NJ 07102. The drive from Hackensack is approximately 25-30 minutes south on NJ-17 and I-280.
 
 Key Information
 
@@ -2349,6 +2615,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Hoboken, NJ - Newark Bankruptcy Guide
@@ -2362,6 +2630,8 @@ Home » Cities » Hoboken, NJ
 Bankruptcy in Hoboken, NJ
 
 Hoboken is a vibrant city on the Hudson River waterfront in Hudson County, directly across from Midtown Manhattan. Known for its brownstones, restaurants, and young professional population, it has become one of the most desirable communities in the New York metro area.
+
+Hoboken residents file in the District of New Jersey at 50 Walnut St, Newark, NJ 07102 - NOT in New York despite Hoboken's proximity to Manhattan. The drive is approximately 20-25 minutes west.
 
 Key Information
 
@@ -2485,6 +2755,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy by City - Newark Bankruptcy Guide
@@ -2586,6 +2858,30 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
+
 ---
 
 ## Bankruptcy in Jersey City, NJ - Newark Bankruptcy Guide
@@ -2599,6 +2895,8 @@ Home » Cities » Jersey City, NJ
 Bankruptcy in Jersey City, NJ
 
 Jersey City is the second-largest city in New Jersey, located directly across the Hudson River from Lower Manhattan. It is a major transportation hub and has experienced rapid growth and development.
+
+Jersey City residents file in the District of New Jersey at the Martin Luther King Jr. Federal Building, 50 Walnut St, Newark, NJ 07102. The drive from Jersey City is approximately 20-25 minutes west via NJ Turnpike. Some hearings may also be held at the Clarkson S. Fisher Federal Building in Trenton.
 
 Key Information
 
@@ -2730,6 +3028,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Passaic, NJ - Newark Bankruptcy Guide
@@ -2743,6 +3043,8 @@ Home » Cities » Passaic, NJ
 Bankruptcy in Passaic, NJ
 
 Passaic is a densely populated city in Passaic County, New Jersey. It is a diverse community with a significant Hispanic population and serves as a commercial center for the surrounding area.
+
+Passaic residents file in the District of New Jersey at 50 Walnut St, Newark, NJ 07102. The drive is approximately 15-20 minutes south.
 
 Key Information
 
@@ -2866,6 +3168,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Paterson, NJ - Newark Bankruptcy Guide
@@ -2879,6 +3183,8 @@ Home » Cities » Paterson, NJ
 Bankruptcy in Paterson, NJ
 
 Paterson is the county seat of Passaic County and the third-largest city in New Jersey. Known as the Silk City for its historical role in silk production, it is a diverse urban community in northern New Jersey.
+
+Paterson residents file in the District of New Jersey at 50 Walnut St, Newark, NJ 07102. The drive from Paterson is approximately 20-25 minutes south on I-80 and NJ-21.
 
 Key Information
 
@@ -3015,6 +3321,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Union City, NJ - Newark Bankruptcy Guide
@@ -3028,6 +3336,8 @@ Home » Cities » Union City, NJ
 Bankruptcy in Union City, NJ
 
 Union City is one of the most densely populated cities in the United States, located in Hudson County along the Palisades overlooking the Hudson River and Manhattan. It has a large Cuban-American and Hispanic population.
+
+Union City residents file in the District of New Jersey at 50 Walnut St, Newark, NJ 07102. The drive is approximately 20-25 minutes west.
 
 Key Information
 
@@ -3151,6 +3461,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in West New York, NJ - Newark Bankruptcy Guide
@@ -3164,6 +3476,8 @@ Home » Cities » West New York, NJ
 Bankruptcy in West New York, NJ
 
 West New York is a town in Hudson County situated atop the Palisades along the Hudson River. It is one of the most densely populated municipalities in the nation with a predominantly Hispanic community.
+
+West New York residents file in the District of New Jersey at 50 Walnut St, Newark, NJ 07102. The drive is approximately 20-25 minutes west.
 
 Key Information
 
@@ -3287,6 +3601,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Converting Between Chapters in Newark
@@ -3302,6 +3618,8 @@ Converting Between Chapters in Newark
 Sometimes the chapter you filed under is not the right fit. Federal law allows conversion between Chapter 7 and Chapter 13 under certain conditions.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. You have an absolute right under section 706(a), as long as you are eligible for Chapter 13 and the case was not previously converted.
 
 What Is a Bankruptcy Conversion?
 
@@ -3416,15 +3734,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -3436,7 +3772,7 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 ---
 
-## How Much Does Bankruptcy Cost in Newark? - Filing Fees, Attorney Fees
+## Newark Bankruptcy Cost [2026]: $338 Chapter 7 Filing Fee, NJ Attorney Fees, and Fee Waivers
 Source: https://newarkbankruptcy.org/cost.html
 
 Newark Bankruptcy Guide
@@ -3463,6 +3799,8 @@ Credit Counseling (2 courses)
 $1,500-$5,000
 
 Typical Attorney Fees
+
+The Chapter 7 filing fee is $338. Attorney fees in Newark typically range from $1,500-$2,500. Credit counseling costs about $25-50 total (two required). Fee waivers are available if your income is below 150% of the federal poverty guidelines.
 
 Chapter 7 Cost Breakdown
 
@@ -3554,15 +3892,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -3585,6 +3941,8 @@ Home›Counties
 Bankruptcy by County - Newark Metro Area
 
 Your county determines which federal court handles your bankruptcy case and which state exemptions protect your property. Find your county below for specific information.
+
+The Newark metro area covers 4 counties: Essex County, Hudson County, Bergen County, Passaic County. Each county falls under a specific federal bankruptcy court district.
 
 4 Counties in the Newark Metro
 
@@ -3684,15 +4042,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -3715,6 +4091,8 @@ Home » Counties » Bergen County
 Bankruptcy in Bergen County
 
 Bergen County is the most populous county in New Jersey, located in the northeastern corner of the state. It includes suburbs like Hackensack, Paramus, and Teaneck.
+
+Bergen County cases are filed in the District of New Jersey, Newark Vicinage. The courthouse is at 50 Walnut St, Newark, NJ 07102. Bergen County residents typically drive 20-40 minutes south to the Newark courthouse.
 
 Key Information
 
@@ -3808,6 +4186,8 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Essex County - Newark Bankruptcy Guide
@@ -3821,6 +4201,8 @@ Home » Counties » Essex County
 Bankruptcy in Essex County
 
 Essex County is home to Newark, the largest city in New Jersey, and includes Montclair, Livingston, and the Oranges. It is the urban core of northern New Jersey.
+
+Essex County cases are filed in the District of New Jersey, Newark Vicinage. The courthouse is at 50 Walnut St, Newark, NJ 07102. This court handles all bankruptcy cases from northern New Jersey.
 
 Key Information
 
@@ -3914,6 +4296,8 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Hudson County - Newark Bankruptcy Guide
@@ -3927,6 +4311,8 @@ Home » Counties » Hudson County
 Bankruptcy in Hudson County
 
 Hudson County is directly across the Hudson River from Manhattan, including Jersey City, Hoboken, and Bayonne. Despite its proximity to New York, bankruptcy cases are filed in the District of New Jersey.
+
+Hudson County residents must file in the District of New Jersey, Newark Vicinage, at 50 Walnut St, Newark, NJ 07102 - not in New York. Even though Jersey City and Hoboken are just across the river from Manhattan, your filing location is based on where you live.
 
 Key Information
 
@@ -4020,9 +4406,11 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
-## Bankruptcy in Passaic County - Newark Bankruptcy Guide
+## Passaic County NJ Bankruptcy [2026]: DNJ Newark Division, NJ Exemptions, and Paterson Filings
 Source: https://newarkbankruptcy.org/counties/passaic-county.html
 
 Newark Bankruptcy Guide
@@ -4033,6 +4421,8 @@ Home » Counties » Passaic County
 Bankruptcy in Passaic County
 
 Passaic County is in northern New Jersey and includes Paterson (New Jersey's third-largest city), Clifton, and Wayne. Cases are filed in the Newark Vicinage of the District of New Jersey.
+
+Passaic County cases are filed in the District of New Jersey, Newark Vicinage, at 50 Walnut St, Newark, NJ 07102. Paterson residents are approximately 20 minutes from the courthouse; Wayne and Clifton residents about 30 minutes.
 
 Key Information
 
@@ -4126,6 +4516,8 @@ Student Loans in Bankruptcy -- bankruptcystudentloans.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Newark Federal Bankruptcy Court Guide - D. New Jersey Filing Information [2026]
@@ -4139,6 +4531,8 @@ Home›Newark Bankruptcy Guide›Court Guide
 Newark Federal Bankruptcy Court Guide
 
 Everything you need to know about the United States Bankruptcy Court for the District of New Jersey. Address, filing hours, local rules, trustee panel, and pro se resources.
+
+File at the Martin Luther King Jr. Federal Building, 50 Walnut St, Newark, NJ 07102. Complete credit counseling first, prepare your petition and schedules, and pay the filing fee. Attorneys must file electronically through CM/ECF.
 
 Court Location and Contact
 
@@ -4261,7 +4655,7 @@ howmuchdoesbankruptcycost.com
 bankruptcyexemptionsbystate.com
 prosebankruptcy.org
 
-170+ domains. 10,000+ pages. $0 advertising. No lead generation. Just information.
+213+ domains. 44,000+ pages. $0 advertising. No lead generation. Just information.
 
 Related Newark Bankruptcy Resources
 
@@ -4275,13 +4669,33 @@ Exemptions
 
 Bankruptcy Cost
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project. GitHub
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
@@ -4296,6 +4710,8 @@ Home›Rebuilding Credit After Bankruptcy in Newark
 Rebuilding Credit After Bankruptcy in Newark
 
 Bankruptcy is not the end of your financial life. Many filers see credit score improvements within 12-24 months of discharge.
+
+Chapter 7 stays for 10 years from filing; Chapter 13 stays for 7 years.
 
 How Long Does Bankruptcy Stay on Your Report?
 
@@ -4372,15 +4788,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -4405,6 +4839,8 @@ Credit Card Debt and Bankruptcy in Newark
 Credit card debt is the most common unsecured debt eliminated in bankruptcy. Here is how it works for Newark residents filing in the District of New Jersey.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+In most cases, yes. Credit card debt is fully dischargeable in Chapter 7. In Chapter 13, you pay a percentage and the rest is discharged. Exceptions exist for recent luxury purchases and cash advances.
 
 Can Bankruptcy Eliminate Credit Card Debt?
 
@@ -4434,7 +4870,7 @@ No income limit - must have regular income
 
 Fraud Exceptions (section 523(a)(2))
 
-Luxury goods over $800 within 90 days - presumed non-dischargeable
+Luxury goods over $900 within 90 days - presumed non-dischargeable
 
 Cash advances over $1,250 within 70 days - presumed non-dischargeable
 
@@ -4511,15 +4947,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -4542,6 +4996,8 @@ Home›Using Credit Cards Before Filing Bankruptcy
 Using Credit Cards Before Filing Bankruptcy
 
 A free guide for New Jersey residents considering bankruptcy. Filed in D.N.J..
+
+Using credit cards when you know you will file bankruptcy can be considered fraud. The Bankruptcy Code presumes fraud for luxury goods purchases over $725 within 90 days and cash advances over $1,000 within 70 days of filing. Best practice: stop using all credit cards immediately once you decide to
 
 What You Need to Know
 
@@ -4586,13 +5042,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -4615,6 +5091,8 @@ Home›Types of Debt in Newark Bankruptcy
 Types of Debt in Newark Bankruptcy
 
 Understanding how different debts are treated in bankruptcy is key to making the right decision.
+
+Most unsecured debts (credit cards, medical bills, personal loans) are dischargeable. Non-dischargeable debts include student loans, recent taxes, child support, and debts from fraud.
 
 Dischargeable Debts
 
@@ -4697,15 +5175,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -4730,6 +5226,8 @@ What Can Disqualify You From Bankruptcy in Newark
 Most people can file, but certain circumstances may temporarily or permanently prevent filing. Here is what Newark residents need to know.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Common barriers: prior discharge within time limits (2-8 years depending on chapters), recent dismissals, failure to complete credit counseling, missing tax returns, and means test failure for Chapter 7.
 
 Prior Bankruptcy Filings
 
@@ -4824,15 +5322,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -4855,6 +5371,8 @@ Home›Find Your Bankruptcy District - Newark Bankruptcy Guide›Find Your Bankr
 Find Your Bankruptcy District
 
 Enter your zip code to find which federal bankruptcy court handles cases in your area. New Jersey has a single district covering the entire state.
+
+All of New Jersey is in a single federal bankruptcy district - the District of New Jersey. The main courthouse is at 50 Walnut St, Newark, NJ 07102. All New Jersey zip codes (070xx-089xx) are in this district.
 
 Zip Code Lookup
 
@@ -4925,15 +5443,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -4958,6 +5494,8 @@ Divorce and Bankruptcy in Newark
 Divorce and bankruptcy frequently overlap. Understanding timing, joint debts, support obligations, and property division is critical for Newark residents navigating both.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Before: eliminates joint debts, saves money on one filing. After: single-filer income ($68,047 median) may qualify for Chapter 7 more easily. Depends on your situation.
 
 Timing: Before or After Divorce?
 
@@ -5068,15 +5606,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5101,6 +5657,8 @@ Emergency Bankruptcy Filing in Newark
 When facing imminent foreclosure, repossession, garnishment, or eviction, an emergency filing can trigger the automatic stay the same day.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+An emergency filing opens a case with minimum paperwork to trigger the automatic stay immediately. You then have 14 days to file remaining documents. Filed at the District of New Jersey.
 
 What Is an Emergency Filing?
 
@@ -5217,15 +5775,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5248,6 +5824,8 @@ Home›Bankruptcy and Employment: Can You Get Fired?
 Bankruptcy and Employment: Can You Get Fired?
 
 A free guide for New Jersey residents. Filed in D.N.J..
+
+Federal law (11 U.S.C. Section 525(a)) prohibits government employers from terminating, refusing to hire, or discriminating against you because of a bankruptcy filing. For private employers, the protection is more limited - they generally cannot fire you for filing, but some courts allow them to co
 
 What You Need to Know
 
@@ -5293,13 +5871,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5322,6 +5920,8 @@ Home›Can I Keep My Engagement Ring in Bankruptcy?
 Can I Keep My Engagement Ring in Bankruptcy?
 
 A free guide for New Jersey residents considering bankruptcy. Filed in D.N.J..
+
+Whether you can keep your engagement ring depends on your state's jewelry exemption. Exemption amounts vary wildly - from $150 in Arizona to unlimited in Texas. If your ring's value exceeds the exemption, the trustee could potentially sell it (though this is rare in practice for modest rings). Many
 
 What You Need to Know
 
@@ -5368,13 +5968,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5397,6 +6017,8 @@ Home›Can Bankruptcy Stop an Eviction?
 Can Bankruptcy Stop an Eviction?
 
 A free guide for New Jersey residents considering bankruptcy. Filed in D.N.J..
+
+The automatic stay under Section 362 temporarily halts most eviction proceedings. However, Section 362(b)(22) limits protection if your landlord already has a judgment for possession. In Chapter 13, you may be able to cure rent arrears through your plan. Timing matters - file before the judgment if
 
 What You Need to Know
 
@@ -5441,13 +6063,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5470,6 +6112,8 @@ Home›Exemptions
 New Jersey Bankruptcy Exemptions
 
 Exemptions determine what property you get to keep when you file bankruptcy. Understanding them is critical - they can mean the difference between keeping and losing your home, car, and savings.
+
+New Jersey filers can choose the federal exemption system under 11 U.S.C. section 522(d) or New Jersey's own, limited state exemptions; most choose federal because New Jersey has no state homestead exemption. The federal homestead exemption is $31,575, the vehicle exemption is $5,025, and the wildcard is $1,675 plus up to $15,800 of unused homestead.
 
 What Are Exemptions?
 
@@ -5503,11 +6147,11 @@ PropertyAmountStatute
 
 Household goods, furnishings$800 per item / $16,850 total522(d)(3)
 
-Jewelry$1,875522(d)(4)
+Jewelry$2,125522(d)(4)
 
-Tools of trade$2,800522(d)(6)
+Tools of trade$3,175522(d)(6)
 
-Life insurance (cash value)$14,875522(d)(8)
+Life insurance (cash value)$16,850522(d)(8)
 
 Health aidsUnlimited522(d)(9)
 
@@ -5561,15 +6205,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5581,7 +6243,7 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 ---
 
-## Newark Bankruptcy FAQ - Common Questions Answered
+## Newark Bankruptcy FAQ [2026]: Common Questions on DNJ Filing, NJ Exemptions, and 341 Meeting Procedure
 Source: https://newarkbankruptcy.org/faq.html
 
 Newark Bankruptcy Guide
@@ -5592,6 +6254,8 @@ Home›Faq
 Frequently Asked Questions
 
 Answers to the most common questions from Newark residents considering bankruptcy.
+
+Chapter 7 filing fee is $338 and Chapter 13 is $313. Attorney fees typically range from $1,500-$2,500 for Chapter 7 and $3,500-$5,000 for Chapter 13.
 
 Cost and Eligibility
 
@@ -5691,15 +6355,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5722,6 +6404,8 @@ Home›How to Find Out if Someone Filed Bankruptcy
 How to Find Out if Someone Filed Bankruptcy
 
 A free guide for New Jersey residents considering bankruptcy. Filed in D.N.J..
+
+All bankruptcy filings are public record. Search PACER (Public Access to Court Electronic Records) at pacer.gov for $0.10 per page. Free alternatives include RECAP (courtlistener.com/recap/) which mirrors many PACER documents. You can also call the bankruptcy court clerk directly or visit in person.
 
 What You Need to Know
 
@@ -5766,13 +6450,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5795,6 +6499,8 @@ Home›Stop Foreclosure in Newark
 Stop Foreclosure in Newark
 
 If you are facing foreclosure, bankruptcy can stop the process and give you time to catch up. Learn more about saving your home.
+
+Yes. Filing bankruptcy triggers the automatic stay, which immediately halts foreclosure proceedings.
 
 The Automatic Stay
 
@@ -5863,15 +6569,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5896,6 +6620,8 @@ Bankruptcy Glossary for Newark Filers
 Bankruptcy has its own vocabulary. This glossary defines key terms in plain language for filers in the District of New Jersey.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Discharge eliminates your liability on eligible debts - the successful outcome. Dismissal terminates the case without a discharge, leaving you still owing all debts.
 
 A-D
 
@@ -5969,7 +6695,7 @@ Trustee - Court-appointed official administering the case.
 
 Unsecured Debt - Debt without collateral (credit cards, medical bills).
 
-Wildcard Exemption - Exemption applicable to any property. Federal: $1,475 plus up to $13,950 of unused homestead.
+Wildcard Exemption - Exemption applicable to any property. Federal: $1,675 plus up to $15,800 of unused homestead.
 
 Frequently Asked Questions
 
@@ -6018,15 +6744,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6051,6 +6795,8 @@ Bankruptcy Income Limits in Newark
 Your income determines which chapter you can file, plan length, and payment amount. Here are New Jersey income thresholds for the District of New Jersey.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Chapter 7 means test threshold: $68,047 for 1 person. Below = automatic pass. Above = detailed calculation. Chapter 13 has no income limit.
 
 New Jersey Median Income for Means Test
 
@@ -6151,15 +6897,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6171,13 +6935,13 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 ---
 
-## Newark Bankruptcy - Chapter 7 & 13 Filing Guide [2026]
+## Newark Bankruptcy - Chapter 7 &amp; 13 Filing Guide [2026]
 Source: https://newarkbankruptcy.org/
 
 Skip to main content
 
 Newark Bankruptcy Guide
-HomeChapter 7Chapter 13ExemptionsCostCountiesFAQOBP Rule 9037 PII Scanner
+HomeChapter 7Chapter 13ExemptionsCostCountiesFAQOBP Rule 9037 Compliance Guide
 
 Newark Bankruptcy - Your Complete Filing Guide for 2026
 
@@ -6203,6 +6967,8 @@ Prior Filer Rate
 $338
 
 Chapter 7 Filing Fee
+
+Chapter 7 filing fees are $338 and Chapter 13 filing fees are $313. Attorney fees in Newark typically range from $1,500-$2,500 for Chapter 7 and $3,500-$5,000 for Chapter 13.
 
 Chapter 7 vs. Chapter 13: Which Is Right for You?
 
@@ -6358,19 +7124,33 @@ Avoid high-volume firms with poor outcomes
 
 bankruptcymill.org →
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
 
-Privacy Policy
+♥ Donate
 
-Cited by the Federal Rules Committee (26-BK-3)
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 Have a Question?
 
@@ -6456,6 +7236,83 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
+
+Site Map
+
+Additional resources on this site
+
+341 Meeting
+Automatic Stay
+Bank Account
+Buy Car Chapter 13
+Buying A House
+Car Lease
+Chapter 13 Eligibility
+Chapter 13 Payments
+Chapter 7 Eligibility
+Checklist
+Converting Chapters
+Credit After Bankruptcy
+Credit Card Debt
+Credit Cards Before Filing
+Debt Types
+Disqualifications
+District Lookup
+Divorce And Bankruptcy
+Emergency Bankruptcy
+Employment
+Engagement Ring
+Eviction
+Find Bankruptcy Filing
+Foreclosure
+Glossary
+Income Limits
+Index
+Judgments
+Keep Your Car
+Keep Your House
+Legal Aid
+Medical Debt Only
+Medical Debt
+Payday Loans
+Reaffirmation Regret
+Renting After Bankruptcy
+Repo Credit Report
+Repossession
+Resources
+Retirement Accounts
+Second Mortgage
+Security Clearance
+Small Business
+Stop Paying Bills
+Surrender Car
+Tax Refund Chapter13
+Timeline
+Timeshare
+Travel Chapter 13
+Wage Garnishment
+
 ---
 
 ## Judgments and Bankruptcy in Newark
@@ -6471,6 +7328,8 @@ Judgments and Bankruptcy in Newark
 If a creditor has a judgment against you, they can garnish wages, levy accounts, and lien property. Bankruptcy can stop enforcement and may eliminate the debt.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes, if the underlying debt is dischargeable. Most judgments from credit cards, medical bills, and personal loans can be discharged. Fraud, support, and DUI judgments cannot.
 
 What Is a Judgment?
 
@@ -6581,15 +7440,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6613,9 +7490,11 @@ Keeping Your Car in Newark Bankruptcy
 
 Most people can keep their vehicle when filing bankruptcy. Here is how it works in New Jersey.
 
+New Jersey vehicle exemption: $5,025 (federal). If you are current on payments and within the exemption, you can keep your car.
+
 New Jersey Vehicle Exemption
 
-Exemption amount: $4,450 (federal)
+Exemption amount: $5,025 (federal)
 
 The exemption protects your equity in the vehicle - the difference between what the car is worth and what you owe on it.
 
@@ -6680,15 +7559,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6711,6 +7608,8 @@ Home›Keeping Your Home in Newark Bankruptcy
 Keeping Your Home in Newark Bankruptcy
 
 Your home is often your most valuable asset. Here is how New Jersey bankruptcy law protects homeowners.
+
+New Jersey homestead exemption: $31,575 (federal; New Jersey has no state homestead exemption). If your equity is within the exemption, your home is protected.
 
 New Jersey Homestead Exemption
 
@@ -6775,15 +7674,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6806,6 +7723,8 @@ Home›Free Legal Help for Bankruptcy in Newark | Newark Bankruptcy Guide›Free
 Free Legal Help for Bankruptcy in Newark
 
 If you are struggling with debt but cannot afford a bankruptcy attorney, these Newark and Northern New Jersey organizations may be able to help - for free or at reduced cost.
+
+Yes. Several organizations in the Newark area provide free legal assistance for bankruptcy cases, including Legal Services of New Jersey and Volunteer Lawyers for Justice. Eligibility is generally based on income, typically at or below 125-200% of the federal poverty level.
 
 Newark Legal Aid Organizations
 
@@ -6917,13 +7836,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project. GitHub
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6946,6 +7885,8 @@ Home›Bankruptcy Means Test in Newark
 Bankruptcy Means Test in Newark
 
 The means test determines whether you qualify for Chapter 7 bankruptcy. It compares your household income to the New Jersey median.
+
+The means test compares your household income to the New Jersey median to determine Chapter 7 eligibility. If below the median, you automatically qualify.
 
 How It Works
 
@@ -7026,15 +7967,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7057,6 +8016,8 @@ Home›Can I File Bankruptcy on Medical Debt Only?
 Can I File Bankruptcy on Medical Debt Only?
 
 A free guide for New Jersey residents. Filed in D.N.J..
+
+You cannot selectively file bankruptcy on just one type of debt - all debts must be listed in your petition. However, medical debt IS fully dischargeable in both Chapter 7 and Chapter 13. If medical bills are your primary burden, Chapter 7 may eliminate them entirely in 3-4 months. Before filing, c
 
 What You Need to Know
 
@@ -7102,13 +8063,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7131,6 +8112,8 @@ Home›Bankruptcy for Medical Debt in Newark
 Bankruptcy for Medical Debt in Newark
 
 Medical bills are a leading driver of bankruptcy filings. Both Chapter 7 and Chapter 13 can eliminate medical debt entirely.
+
+Yes. Medical debt is unsecured and fully dischargeable in both Chapter 7 and Chapter 13 bankruptcy.
 
 Medical Debt in Bankruptcy
 
@@ -7189,15 +8172,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7222,6 +8223,8 @@ Payday Loans and Bankruptcy in Newark
 Payday loans carry extreme interest rates - often 400% APR or higher. Bankruptcy can eliminate payday loan debt, but there are important considerations.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. Payday loans are unsecured debt, dischargeable in both Chapter 7 and Chapter 13.
 
 Can Bankruptcy Eliminate Payday Loans?
 
@@ -7308,15 +8311,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7339,6 +8360,8 @@ Home›Can I Undo a Reaffirmation Agreement?
 Can I Undo a Reaffirmation Agreement?
 
 A free guide for New Jersey residents. Filed in D.N.J..
+
+You have 60 days after the reaffirmation agreement is filed with the court to rescind (cancel) it. After 60 days, your options are limited. You can voluntarily surrender the property, refinance the loan, or negotiate with the creditor. If the reaffirmation was not properly disclosed or you were not
 
 What You Need to Know
 
@@ -7384,13 +8407,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7413,6 +8456,8 @@ Home›Renting an Apartment After Bankruptcy
 Renting an Apartment After Bankruptcy
 
 A free guide for New Jersey residents. Filed in D.N.J..
+
+Finding an apartment after bankruptcy is possible but requires strategy. Most large property management companies run credit checks and will see the bankruptcy. Smaller landlords and individual owners are often more flexible. Tips: offer a larger security deposit, provide references from previous la
 
 What You Need to Know
 
@@ -7458,13 +8503,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7487,6 +8552,8 @@ Home›Can Bankruptcy Remove a Repossession From Your Credit?
 Can Bankruptcy Remove a Repossession From Your Credit?
 
 A free guide for New Jersey residents considering bankruptcy. Filed in D.N.J..
+
+Bankruptcy does not remove a repossession entry from your credit report. However, filing bankruptcy discharges the deficiency balance - the amount you still owe after the repo and sale. Your credit report should show the balance as $0 after discharge. If it still shows a balance, dispute it with th
 
 What You Need to Know
 
@@ -7531,13 +8598,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7560,6 +8647,8 @@ Home›Stop Repossession in Newark
 Stop Repossession in Newark
 
 If your car is at risk of repossession, bankruptcy can stop the process and help you catch up on payments.
+
+Yes. Filing bankruptcy triggers the automatic stay, which stops repossession. Chapter 13 lets you catch up on missed car payments.
 
 The Automatic Stay Stops Repo
 
@@ -7616,15 +8705,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7647,6 +8754,8 @@ Home›Resources
 Newark Bankruptcy Resources
 
 Courts, legal aid organizations, credit counseling agencies, and free educational tools to help you navigate the bankruptcy process.
+
+The District of New Jersey bankruptcy court is located at 50 Walnut St, Newark, NJ 07102. Phone: (973) 645-4764.
 
 Bankruptcy Court
 
@@ -7760,15 +8869,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7791,6 +8918,8 @@ Home›Can I Keep My 401k and Retirement in Bankruptcy?
 Can I Keep My 401k and Retirement in Bankruptcy?
 
 A free guide for New Jersey residents. Filed in D.N.J..
+
+Yes - ERISA-qualified retirement accounts (401k, 403b, pensions) are 100% exempt under federal law, regardless of value. This is one of the strongest protections in bankruptcy. Traditional and Roth IRAs are exempt up to $1,711,975 (adjusted periodically). SEP-IRAs and SIMPLE IRAs get the same ERISA
 
 What You Need to Know
 
@@ -7836,13 +8965,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7867,6 +9016,8 @@ Second Mortgages and Bankruptcy in Newark
 If you have a second mortgage or HELOC and are underwater, Chapter 13 bankruptcy may offer relief through lien stripping.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+A Chapter 13 process removing a second mortgage when home value is less than the first mortgage balance. The second mortgage becomes unsecured debt in the plan.
 
 What Is Lien Stripping?
 
@@ -7967,15 +9118,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7998,6 +9167,8 @@ Home›Bankruptcy and Security Clearance
 Bankruptcy and Security Clearance
 
 A free guide for New Jersey residents. Filed in D.N.J..
+
+Filing bankruptcy does NOT automatically revoke your security clearance. In fact, the Department of Defense adjudicative guidelines consider financial irresponsibility a greater risk than filing bankruptcy. Filing shows you are taking responsible steps to address your debt. Many clearance holders fi
 
 What You Need to Know
 
@@ -8043,13 +9214,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8072,6 +9263,8 @@ Home›Small Business Bankruptcy in Newark
 Small Business Bankruptcy in Newark
 
 Business owners facing financial distress have several bankruptcy options. The right choice depends on your business structure and goals.
+
+Options include Chapter 7 (liquidation), Chapter 11 Subchapter V (reorganization for small businesses with total debts up to $3,424,000), and Chapter 13 (for sole proprietors).
 
 Chapter 7 - Business Liquidation
 
@@ -8140,15 +9333,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8160,7 +9371,7 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 ---
 
-## Newark Bankruptcy Statistics - 119,583 Cases Analyzed
+## Newark Bankruptcy Statistics [2026]: 119,583 Cases Analyzed Across DNJ Newark Division
 Source: https://newarkbankruptcy.org/statistics.html
 
 Newark Bankruptcy Guide
@@ -8195,6 +9406,8 @@ Est. 1328(f) Violations
 8.3%
 
 Pro Se Rate
+
+The District of New Jersey has had 119,583 cases filed between 2008 and 2024.
 
 What These Numbers Mean for You
 
@@ -8284,15 +9497,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8315,6 +9546,8 @@ Home›What Bills Can I Stop Paying Before Filing?
 What Bills Can I Stop Paying Before Filing?
 
 A free guide for New Jersey residents considering bankruptcy. Filed in D.N.J..
+
+Before filing bankruptcy, you can strategically stop paying unsecured debts like credit cards and medical bills. Keep paying your mortgage, car payment, utilities, child support, and alimony. Be aware of the 90-day preference period - large payments to specific creditors before filing can be clawed
 
 What You Need to Know
 
@@ -8359,13 +9592,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8388,6 +9641,8 @@ Home›Student Loans and Bankruptcy in Newark
 Student Loans and Bankruptcy in Newark
 
 Student loans are generally not discharged in bankruptcy, but there are exceptions and strategies worth understanding.
+
+Student loans are difficult to discharge but not impossible. You must file an adversary proceeding and prove undue hardship.
 
 The General Rule
 
@@ -8454,15 +9709,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8485,6 +9758,8 @@ Home›Surrendering Your Car in Bankruptcy
 Surrendering Your Car in Bankruptcy
 
 A free guide for New Jersey residents. Filed in D.N.J..
+
+Voluntary surrender means you return the vehicle to the lender. In Chapter 7, the remaining deficiency balance (what you owe minus the car's value) is discharged. You will not owe anything after discharge. The process: notify your attorney, the lender arranges pickup, you remove personal belongings.
 
 What You Need to Know
 
@@ -8530,13 +9805,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8559,6 +9854,8 @@ Home›Tax Debt and Bankruptcy in Newark
 Tax Debt and Bankruptcy in Newark
 
 Some tax debts can be eliminated in bankruptcy, but the rules are specific. Here is what Newark filers need to know.
+
+Some income taxes can be discharged if they meet specific age, filing, and assessment requirements (the 3-2-240 rule).
 
 The 3-2-240 Rule
 
@@ -8631,15 +9928,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8662,6 +9977,8 @@ Home›Will the Chapter 13 Trustee Take My Tax Refund?
 Will the Chapter 13 Trustee Take My Tax Refund?
 
 A free guide for New Jersey residents. Filed in D.N.J..
+
+In most districts, the Chapter 13 trustee requires you to turn over tax refunds above a certain threshold (typically $2,000-$3,000, varies by trustee). Your plan may include specific provisions about tax refunds. You can request a plan modification to retain your refund for a necessary expense. File
 
 What You Need to Know
 
@@ -8707,13 +10024,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8736,6 +10073,8 @@ Home›Bankruptcy Timeline in Newark
 Bankruptcy Timeline in Newark
 
 Here is what to expect at each stage of the bankruptcy process.
+
+Chapter 7 typically takes 3-4 months from filing to discharge.
 
 Chapter 7 Timeline
 
@@ -8810,15 +10149,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8842,6 +10199,8 @@ Timeshares and Bankruptcy
 
 A free guide for New Jersey residents considering bankruptcy. Filed in D.N.J..
 
+You can surrender an unwanted timeshare in Chapter 7 bankruptcy. The remaining balance on the timeshare loan is dischargeable. However, HOA maintenance fees that come due after filing may not be dischargeable. Some timeshare companies aggressively pursue post-discharge fees - know your rights under
+
 What You Need to Know
 
 You can surrender an unwanted timeshare in Chapter 7 bankruptcy. The remaining balance on the timeshare loan is dischargeable. However, HOA maintenance fees that come due after filing may not be dischargeable. Some timeshare companies aggressively pursue post-discharge fees - know your rights under the discharge injunction.
@@ -8885,13 +10244,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8914,6 +10293,8 @@ Home›Can I Travel During Chapter 13?
 Can I Travel During Chapter 13?
 
 A free guide for New Jersey residents considering bankruptcy. Filed in D.N.J..
+
+There is no legal restriction on domestic travel during Chapter 13. For international travel, some trustees ask to be notified for extended trips. Luxury vacations may draw scrutiny if the trustee believes you have disposable income that should go to creditors. Budget travel and visiting family are
 
 What You Need to Know
 
@@ -8958,13 +10339,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8987,6 +10388,8 @@ Home›Stop Wage Garnishment in Newark
 Stop Wage Garnishment in Newark
 
 If your wages are being garnished, filing bankruptcy can stop the garnishment immediately through the automatic stay.
+
+Yes. Filing bankruptcy triggers the automatic stay, which immediately stops wage garnishment.
 
 New Jersey Garnishment Law
 
@@ -9045,15 +10448,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -9076,6 +10497,8 @@ Home›What To Expect
 What to Expect When Filing Bankruptcy
 
 The bankruptcy process can feel overwhelming, but it follows a clear, predictable path. Here is exactly what happens from start to finish in Newark.
+
+The 341 meeting is a brief hearing where the trustee asks you questions under oath about your finances. Bring photo ID and Social Security proof. Most meetings last 5-10 minutes.
 
 Chapter 7 Timeline
 
@@ -9223,15 +10646,33 @@ Newark Exemptions
 
 Bankruptcy Cost in Newark
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -9299,7 +10740,7 @@ You may request deletion of any personal data we hold by contacting info@openban
 
 Network Policy
 
-This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit. The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+This site is part of the Open Bankruptcy Project operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
 Changes
 
@@ -9309,6 +10750,61 @@ Effective: March 30, 2026  |  Updated: April 11, 2026
 
 Home  ·  Privacy  ·  Open Bankruptcy Project
 
-Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## About newarkbankruptcy.org
+Source: https://newarkbankruptcy.org/about.html
+
+newarkbankruptcy.org
+
+Home
+About
+Privacy
+
+About newarkbankruptcy.org
+
+Part of the Open Bankruptcy Project operated by the Open Bankruptcy Project.
+
+What This Site Is
+
+newarkbankruptcy.org is an educational resource operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). It's part of the Open Bankruptcy Project - a collection of free, public-interest sites that translate federal bankruptcy court data, statutes, and procedures into language ordinary people can use.
+
+The Open Bankruptcy Project
+
+The Open Bankruptcy Project builds free, open-source tools that make public bankruptcy court data accessible to the people it affects most - debtors, advocates, researchers, journalists, and policymakers. Every screening tool, analysis script, and dataset is published on GitHub. Anyone can audit, reproduce, or build upon the work without permission or payment.
+
+Our research is derived primarily from the Federal Judicial Center's Integrated Database covering all federal bankruptcy filings 2008 through 2024, cross-referenced with PACER docket data via the Free Law Project's RECAP archive and independent court-scraping tooling. Methodology and source code are public.
+
+What This Site Is Not
+
+This site is not a law firm. We do not represent clients, file bankruptcy cases, or give legal advice. We do not receive referral fees, affiliate commissions, or advertising revenue. We do not sell data.
+
+If you need legal advice about your specific situation, consult a licensed bankruptcy attorney in your state.
+
+Research Contributions
+
+Our research supports two accepted suggestions to the Federal Judicial Conference Advisory Committee on Bankruptcy Rules:
+
+Suggestion 26-BK-3 - procedural screening for 11 U.S.C. § 1328(f) re-filing eligibility
+
+Suggestion 26-BK-5 - Rule 9037 / Form 121 / Form 309E1 amendments addressing systematic unredacted Social Security number exposure on federal bankruptcy dockets
+
+Contact
+
+General inquiries, data requests, research collaboration, and media: info@openbankruptcyproject.org
+
+Privacy and Data Handling
+
+See our privacy policy for details. Short version: aggregate analytics only; no data sold, no advertising, no attorney referrals, no financial information collected.
+
+Home  ·  About  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
 
 No ads. No affiliate links. No data sold. Supported by donations.

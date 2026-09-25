@@ -1,7 +1,7 @@
-# Newark Bankruptcy - Chapter 7 & 13 Filing Guide [2026]
-> Last updated: 2026-05-01
+# Newark Bankruptcy - Chapter 7 &amp; 13 Filing Guide [2026]
+> Last updated: 2026-09-25
 
-> Free Newark bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, local exemptions, filing costs, means test, and what to expect in your...
+> Free Newark bankruptcy guide for 2026.
 
 ## About
 newarkbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
@@ -13,10 +13,10 @@ newarkbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproje
 - Can I Buy a Car While in Chapter 13?: https://newarkbankruptcy.org/buy-car-chapter-13.html
 - Buying a House After Bankruptcy in Newark: https://newarkbankruptcy.org/buying-a-house.html
 - Car Leases and Bankruptcy: https://newarkbankruptcy.org/car-lease.html
-- Chapter 13 Eligibility in Newark | Requirements & Debt Limits: https://newarkbankruptcy.org/chapter-13-eligibility.html
+- Chapter 13 Eligibility in Newark | Requirements &amp; Debt Limits: https://newarkbankruptcy.org/chapter-13-eligibility.html
 - Chapter 13 Payments in Newark | How Much Will You Pay?: https://newarkbankruptcy.org/chapter-13-payments.html
 - Chapter 13 Bankruptcy in Newark - Payment Plans, Dismissal Rates, Timeline: https://newarkbankruptcy.org/chapter-13.html
-- Chapter 7 Eligibility in Newark | Means Test & Requirements: https://newarkbankruptcy.org/chapter-7-eligibility.html
+- Chapter 7 Eligibility in Newark | Means Test &amp; Requirements: https://newarkbankruptcy.org/chapter-7-eligibility.html
 - Chapter 7 Bankruptcy in Newark - Eligibility, Exemptions, Timeline: https://newarkbankruptcy.org/chapter-7.html
 - Bankruptcy Filing Checklist for Newark, New Jersey: https://newarkbankruptcy.org/checklist.html
 - Bankruptcy in Bayonne, NJ - Newark Bankruptcy Guide: https://newarkbankruptcy.org/cities/bayonne.html
@@ -33,12 +33,12 @@ newarkbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproje
 - Bankruptcy in Union City, NJ - Newark Bankruptcy Guide: https://newarkbankruptcy.org/cities/union-city.html
 - Bankruptcy in West New York, NJ - Newark Bankruptcy Guide: https://newarkbankruptcy.org/cities/west-new-york.html
 - Converting Between Chapters in Newark: https://newarkbankruptcy.org/converting-chapters.html
-- How Much Does Bankruptcy Cost in Newark? - Filing Fees, Attorney Fees: https://newarkbankruptcy.org/cost.html
+- Newark Bankruptcy Cost [2026]: $338 Chapter 7 Filing Fee, NJ Attorney Fees, and Fee Waivers: https://newarkbankruptcy.org/cost.html
 - Bankruptcy by County - Newark Metro Area: https://newarkbankruptcy.org/counties.html
 - Bankruptcy in Bergen County - Newark Bankruptcy Guide: https://newarkbankruptcy.org/counties/bergen-county.html
 - Bankruptcy in Essex County - Newark Bankruptcy Guide: https://newarkbankruptcy.org/counties/essex-county.html
 - Bankruptcy in Hudson County - Newark Bankruptcy Guide: https://newarkbankruptcy.org/counties/hudson-county.html
-- Bankruptcy in Passaic County - Newark Bankruptcy Guide: https://newarkbankruptcy.org/counties/passaic-county.html
+- Passaic County NJ Bankruptcy [2026]: DNJ Newark Division, NJ Exemptions, and Paterson Filings: https://newarkbankruptcy.org/counties/passaic-county.html
 - Newark Federal Bankruptcy Court Guide - D. New Jersey Filing Information: https://newarkbankruptcy.org/court-guide.html
 - Rebuilding Credit After Bankruptcy in Newark, New Jersey: https://newarkbankruptcy.org/credit-after-bankruptcy.html
 - Credit Card Debt and Bankruptcy in Newark: https://newarkbankruptcy.org/credit-card-debt.html
@@ -52,12 +52,12 @@ newarkbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproje
 - Can I Keep My Engagement Ring in Bankruptcy?: https://newarkbankruptcy.org/engagement-ring.html
 - Can Bankruptcy Stop an Eviction?: https://newarkbankruptcy.org/eviction.html
 - New Jersey Bankruptcy Exemptions - What You Can Keep: https://newarkbankruptcy.org/exemptions.html
-- Newark Bankruptcy FAQ - Common Questions Answered: https://newarkbankruptcy.org/faq.html
+- Newark Bankruptcy FAQ [2026]: Common Questions on DNJ Filing, NJ Exemptions, and 341 Meeting Procedure: https://newarkbankruptcy.org/faq.html
 - How to Find Out if Someone Filed Bankruptcy: https://newarkbankruptcy.org/find-bankruptcy-filing.html
 - Stop Foreclosure in Newark, New Jersey - Bankruptcy Protection: https://newarkbankruptcy.org/foreclosure.html
 - Bankruptcy Glossary | Newark Bankruptcy Terms: https://newarkbankruptcy.org/glossary.html
 - Bankruptcy Income Limits in Newark | New Jersey Median Income: https://newarkbankruptcy.org/income-limits.html
-- Newark Bankruptcy - Chapter 7 & 13 Filing Guide: https://newarkbankruptcy.org/
+- Newark Bankruptcy - Chapter 7 &amp; 13 Filing Guide: https://newarkbankruptcy.org/
 - Judgments and Bankruptcy in Newark: https://newarkbankruptcy.org/judgments.html
 - Can I Keep My Car in Bankruptcy? - Newark, New Jersey Guide: https://newarkbankruptcy.org/keep-your-car.html
 - Can I Keep My House in Bankruptcy? - Newark, New Jersey Guide: https://newarkbankruptcy.org/keep-your-house.html
@@ -75,7 +75,7 @@ newarkbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproje
 - Second Mortgage and Bankruptcy in Newark: https://newarkbankruptcy.org/second-mortgage.html
 - Bankruptcy and Security Clearance: https://newarkbankruptcy.org/security-clearance.html
 - Small Business Bankruptcy in Newark, New Jersey - Options for Business Owners: https://newarkbankruptcy.org/small-business.html
-- Newark Bankruptcy Statistics - 119,583 Cases Analyzed: https://newarkbankruptcy.org/statistics.html
+- Newark Bankruptcy Statistics [2026]: 119,583 Cases Analyzed Across DNJ Newark Division: https://newarkbankruptcy.org/statistics.html
 - What Bills Can I Stop Paying Before Filing?: https://newarkbankruptcy.org/stop-paying-bills.html
 - Student Loans and Bankruptcy in Newark, New Jersey: https://newarkbankruptcy.org/student-loans.html
 - Surrendering Your Car in Bankruptcy: https://newarkbankruptcy.org/surrender-car.html
@@ -87,6 +87,7 @@ newarkbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproje
 - Stop Wage Garnishment in Newark, New Jersey - Bankruptcy Protection: https://newarkbankruptcy.org/wage-garnishment.html
 - What to Expect When Filing Bankruptcy in Newark - Timeline, 341 Meeting, Discharge: https://newarkbankruptcy.org/what-to-expect.html
 - Privacy Policy: https://newarkbankruptcy.org/privacy.html
+- About newarkbankruptcy.org: https://newarkbankruptcy.org/about.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
