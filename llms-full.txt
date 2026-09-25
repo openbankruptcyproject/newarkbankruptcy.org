@@ -1604,7 +1604,7 @@ Property taxes are not dischargeable in bankruptcy. They are considered priority
 
 Can I file bankruptcy if I recently moved to Bayonne?
 
-Yes, but exemptions depend on where you lived before. If you moved to New Jersey within the past 730 days (2 years), the exemptions from your previous state of residence may apply. If no state's exemptions apply under this rule, federal exemptions are used - which is what New Jersey uses anyway.
+Yes, but exemptions depend on where you lived before. If you moved to New Jersey within the past 730 days (2 years), the exemptions from your previous state of residence may apply. If no state's exemptions apply under this rule, federal exemptions are used - the same federal list New Jersey filers may already choose.
 
 Check Your Eligibility
 
@@ -2497,7 +2497,7 @@ Home » Cities
 
 Bankruptcy by City - Newark Area
 
-Find bankruptcy information specific to your city in the Newark, NJ metro area. New Jersey is unique - it uses federal bankruptcy exemptions exclusively. Each page includes courthouse location, federal exemptions, zip codes, local resources, and frequently asked questions.
+Find bankruptcy information specific to your city in the Newark, NJ metro area. Most New Jersey filers use the federal bankruptcy exemptions, because New Jersey's own state exemptions are limited. Each page includes courthouse location, federal exemptions, zip codes, local resources, and frequently asked questions.
 
 Select Your City
 
