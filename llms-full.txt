@@ -498,7 +498,7 @@ Down payment assistance: New Jersey offers first-time homebuyer programs combina
 
 Newark Housing Considerations
 
-Homestead exemption: New Jersey's $27,900 (federal) exemption protects equity if financial trouble recurs
+Homestead exemption: New Jersey's $31,575 (federal) exemption protects equity if financial trouble recurs
 
 Foreclosure process: New Jersey uses judicial, typically taking 12-18 months (the slowest in the United States)
 
@@ -524,7 +524,7 @@ Initially, rates may be slightly higher. They improve as credit rebuilds and ban
 
 Does New Jersey's homestead exemption protect my new home?
 
-Yes. New Jersey's $27,900 (federal) homestead exemption protects equity in your primary residence if financial trouble recurs.
+Yes. New Jersey's $31,575 (federal) homestead exemption protects equity in your primary residence if financial trouble recurs.
 
 Check Your Eligibility
 
@@ -664,7 +664,7 @@ Chapter 13 is available to individuals with regular income under 11 U.S.C. secti
 
 Regular income: Wages, self-employment, Social Security, pension, or regular family contributions
 
-Debt limits: Total noncontingent, liquidated debts must not exceed $2,750,000 (combined secured and unsecured)
+Debt limits: Noncontingent, liquidated debts must not exceed $526,700 unsecured and $1,580,125 secured
 
 Credit counseling: Required within 180 days before filing
 
@@ -686,7 +686,7 @@ Good Candidates
 
 Homeowners behind on mortgage payments
 
-People with non-exempt property (equity above $27,900 (federal) homestead, $4,450 (federal) vehicle)
+People with non-exempt property (equity above $31,575 (federal) homestead, $5,025 (federal) vehicle)
 
 Filers who do not pass the Chapter 7 means test
 
@@ -708,7 +708,7 @@ If income drops, maintaining payments can become impossible
 
 New Jersey Considerations
 
-Exemptions: New Jersey does not have its own bankruptcy exemptions - filers must use the federal exemption system under 11 U.S.C. section 522(d). In Chapter 13, exemptions affect the minimum amount paid to unsecured creditors.
+Exemptions: New Jersey filers can choose either the federal bankruptcy exemptions under 11 U.S.C. section 522(d) or New Jersey's own, limited state exemptions; because New Jersey has no state homestead exemption, most filers choose the federal system. In Chapter 13, exemptions affect the minimum amount paid to unsecured creditors.
 
 Foreclosure: New Jersey uses judicial, typically taking 12-18 months (the slowest in the United States). Chapter 13 can stop foreclosure and cure arrears.
 
@@ -718,7 +718,7 @@ Frequently Asked Questions
 
 What is the debt limit for Chapter 13?
 
-As of 2024, the combined limit is $2,750,000 for all noncontingent, liquidated debts. If debts exceed this, Chapter 11 may be an option.
+As of April 1, 2025, the limits are $526,700 in noncontingent, liquidated unsecured debts and $1,580,125 in secured debts. If debts exceed this, Chapter 11 may be an option.
 
 Is there an income limit?
 
@@ -1152,11 +1152,11 @@ Good faith - court can dismiss for abuse
 
 New Jersey Exemptions and Chapter 7
 
-New Jersey does not have its own bankruptcy exemptions - filers must use the federal exemption system under 11 U.S.C. section 522(d).
+New Jersey filers can choose either the federal bankruptcy exemptions under 11 U.S.C. section 522(d) or New Jersey's own, limited state exemptions; because New Jersey has no state homestead exemption, most filers choose the federal system.
 
-Homestead: $27,900 (federal) - equity above this is at risk in Chapter 7
+Homestead: $31,575 (federal) - equity above this is at risk in Chapter 7
 
-Vehicle: $4,450 (federal)
+Vehicle: $5,025 (federal)
 
 Personal property: Household goods and clothing have separate limits
 
@@ -1178,7 +1178,7 @@ How far back does the income calculation go?
 
 Can I file Chapter 7 if I own a home?
 
-Yes, if equity does not exceed New Jersey's $27,900 (federal) homestead exemption. If it does, the trustee could sell the home.
+Yes, if equity does not exceed New Jersey's $31,575 (federal) homestead exemption. If it does, the trustee could sell the home.
 
 Do I need to take a class?
 
@@ -1291,13 +1291,13 @@ For a single filer in New Jersey, the current median is approximately $68,000/ye
 
 New Jersey Exemptions in Chapter 7
 
-New Jersey has NO state bankruptcy exemptions. Filers must use the federal exemption system. This is unusual - most states have their own exemptions.
+New Jersey is not an opt-out state, so filers can choose either the federal bankruptcy exemptions or New Jersey's own exemptions. New Jersey's state exemptions are limited (there is no state homestead exemption), so most New Jersey filers choose the federal system.
 
 PropertyNew Jersey Exemption
 
-Homestead$27,900 (federal)
+Homestead$31,575 (federal)
 
-Vehicle$4,450 (federal)
+Vehicle$5,025 (federal)
 
 Personal property$1,475 per item (federal)
 
@@ -1335,7 +1335,7 @@ From filing to discharge, typically 3-4 months. The 341 meeting occurs about 30 
 
 What property can I keep in Chapter 7?
 
-New Jersey exemptions protect homestead equity up to $27,900 (federal), vehicle up to $4,450 (federal), and personal property up to $1,475 per item (federal). Full exemption details.
+New Jersey exemptions protect homestead equity up to $31,575 (federal), vehicle up to $5,025 (federal), and personal property up to $1,475 per item (federal). Full exemption details.
 
 Check Your Eligibility
 
@@ -1564,7 +1564,7 @@ Verify your zip code falls within the correct filing district.
 
 Federal Exemptions (New Jersey) in Bayonne
 
-New Jersey uses federal bankruptcy exemptions exclusively - one of the few states in the nation that does so. Federal exemptions under 11 U.S.C. section 522(d) apply: Homestead: $27,900. Vehicle: $4,450. Jewelry: $1,875. Tools of trade: $2,800. Wildcard: $1,475 plus up to $13,950 of unused homestead. Household goods: $700 per item, $14,875 total. Retirement accounts: fully exempt.
+New Jersey filers can choose federal bankruptcy exemptions or New Jersey's own limited state exemptions; most choose federal because New Jersey has no state homestead exemption. Federal exemptions under 11 U.S.C. section 522(d) apply: Homestead: $31,575. Vehicle: $5,025. Jewelry: $2,125. Tools of trade: $3,175. Wildcard: $1,675 plus up to $15,800 of unused homestead. Household goods: $800 per item, $16,850 total. Retirement accounts: fully exempt.
 
 Exemptions determine what property you can keep in bankruptcy. See the full exemptions guide.
 
@@ -1704,7 +1704,7 @@ Verify your zip code falls within the correct filing district.
 
 Federal Exemptions (New Jersey) in Clifton
 
-New Jersey uses federal bankruptcy exemptions exclusively - one of the few states in the nation that does so. Federal exemptions under 11 U.S.C. section 522(d) apply: Homestead: $27,900. Vehicle: $4,450. Jewelry: $1,875. Tools of trade: $2,800. Wildcard: $1,475 plus up to $13,950 of unused homestead. Household goods: $700 per item, $14,875 total. Retirement accounts: fully exempt.
+New Jersey filers can choose federal bankruptcy exemptions or New Jersey's own limited state exemptions; most choose federal because New Jersey has no state homestead exemption. Federal exemptions under 11 U.S.C. section 522(d) apply: Homestead: $31,575. Vehicle: $5,025. Jewelry: $2,125. Tools of trade: $3,175. Wildcard: $1,675 plus up to $15,800 of unused homestead. Household goods: $800 per item, $16,850 total. Retirement accounts: fully exempt.
 
 Exemptions determine what property you can keep in bankruptcy. See the full exemptions guide.
 
@@ -1740,11 +1740,11 @@ Clifton residents file in the District of New Jersey at 50 Walnut St, Newark, NJ
 
 What is the wildcard exemption in New Jersey?
 
-The federal wildcard exemption available in New Jersey is $1,475 plus up to $13,950 of any unused homestead exemption. If you are a renter (not using homestead), you effectively have a $15,425 wildcard to protect any personal property - one of the more generous wildcard amounts.
+The federal wildcard exemption available in New Jersey is $1,675 plus up to $15,800 of any unused homestead exemption. If you are a renter (not using homestead), you effectively have a $17,475 wildcard to protect any personal property - one of the more generous wildcard amounts.
 
 Can I keep my car if I file bankruptcy in Clifton?
 
-The federal vehicle exemption is $4,450 per debtor. If your car equity is under $4,450, you can keep it in Chapter 7. You can also apply the wildcard exemption to protect additional vehicle equity. In Chapter 13, you keep all property while making plan payments.
+The federal vehicle exemption is $5,025 per debtor. If your car equity is under $5,025, you can keep it in Chapter 7. You can also apply the wildcard exemption to protect additional vehicle equity. In Chapter 13, you keep all property while making plan payments.
 
 Check Your Eligibility
 
@@ -1842,7 +1842,7 @@ Verify your zip code falls within the correct filing district.
 
 Federal Exemptions (New Jersey) in East Orange
 
-New Jersey uses federal bankruptcy exemptions exclusively - one of the few states in the nation that does so. Federal exemptions under 11 U.S.C. section 522(d) apply: Homestead: $27,900. Vehicle: $4,450. Jewelry: $1,875. Tools of trade: $2,800. Wildcard: $1,475 plus up to $13,950 of unused homestead. Household goods: $700 per item, $14,875 total. Retirement accounts: fully exempt.
+New Jersey filers can choose federal bankruptcy exemptions or New Jersey's own limited state exemptions; most choose federal because New Jersey has no state homestead exemption. Federal exemptions under 11 U.S.C. section 522(d) apply: Homestead: $31,575. Vehicle: $5,025. Jewelry: $2,125. Tools of trade: $3,175. Wildcard: $1,675 plus up to $15,800 of unused homestead. Household goods: $800 per item, $16,850 total. Retirement accounts: fully exempt.
 
 Exemptions determine what property you can keep in bankruptcy. See the full exemptions guide.
 
@@ -1878,7 +1878,7 @@ East Orange residents file in the District of New Jersey at 50 Walnut St, Newark
 
 How does bankruptcy protect East Orange homeowners?
 
-The federal homestead exemption of $27,900 per debtor protects home equity. For many East Orange homeowners, this amount is sufficient to protect their interest. In Chapter 13, you keep your home while curing any mortgage arrears over 3-5 years.
+The federal homestead exemption of $31,575 per debtor protects home equity. For many East Orange homeowners, this amount is sufficient to protect their interest. In Chapter 13, you keep your home while curing any mortgage arrears over 3-5 years.
 
 Can bankruptcy stop a sheriff sale in East Orange?
 
@@ -1982,7 +1982,7 @@ Verify your zip code falls within the correct filing district.
 
 Federal Exemptions (New Jersey) in Elizabeth
 
-New Jersey uses federal bankruptcy exemptions exclusively - one of the few states in the nation that does so. Federal exemptions under 11 U.S.C. section 522(d) apply: Homestead: $27,900. Vehicle: $4,450. Jewelry: $1,875. Tools of trade: $2,800. Wildcard: $1,475 plus up to $13,950 of unused homestead. Household goods: $700 per item, $14,875 total. Retirement accounts: fully exempt.
+New Jersey filers can choose federal bankruptcy exemptions or New Jersey's own limited state exemptions; most choose federal because New Jersey has no state homestead exemption. Federal exemptions under 11 U.S.C. section 522(d) apply: Homestead: $31,575. Vehicle: $5,025. Jewelry: $2,125. Tools of trade: $3,175. Wildcard: $1,675 plus up to $15,800 of unused homestead. Household goods: $800 per item, $16,850 total. Retirement accounts: fully exempt.
 
 Exemptions determine what property you can keep in bankruptcy. See the full exemptions guide.
 
@@ -2018,7 +2018,7 @@ Elizabeth residents file in the District of New Jersey at 50 Walnut St, Newark, 
 
 What property can I protect in Elizabeth?
 
-Federal exemptions apply in New Jersey: $27,900 homestead, $4,450 vehicle, $1,875 jewelry, $14,875 tools of trade, and a $1,475 plus $13,950 wildcard exemption. These amounts are per debtor and are adjusted periodically for inflation.
+Federal exemptions apply in New Jersey: $31,575 homestead, $5,025 vehicle, $2,125 jewelry, $3,175 tools of trade, and a $1,675 plus $15,800 wildcard exemption. These amounts are per debtor and are adjusted periodically for inflation.
 
 How does bankruptcy affect my Elizabeth rental lease?
 
@@ -2118,7 +2118,7 @@ Verify your zip code falls within the correct filing district.
 
 Federal Exemptions (New Jersey) in Fort Lee
 
-New Jersey uses federal bankruptcy exemptions exclusively - one of the few states in the nation that does so. Federal exemptions under 11 U.S.C. section 522(d) apply: Homestead: $27,900. Vehicle: $4,450. Jewelry: $1,875. Tools of trade: $2,800. Wildcard: $1,475 plus up to $13,950 of unused homestead. Household goods: $700 per item, $14,875 total. Retirement accounts: fully exempt.
+New Jersey filers can choose federal bankruptcy exemptions or New Jersey's own limited state exemptions; most choose federal because New Jersey has no state homestead exemption. Federal exemptions under 11 U.S.C. section 522(d) apply: Homestead: $31,575. Vehicle: $5,025. Jewelry: $2,125. Tools of trade: $3,175. Wildcard: $1,675 plus up to $15,800 of unused homestead. Household goods: $800 per item, $16,850 total. Retirement accounts: fully exempt.
 
 Exemptions determine what property you can keep in bankruptcy. See the full exemptions guide.
 
@@ -2158,7 +2158,7 @@ Many attorneys in the Fort Lee area serve the Korean-American community and offe
 
 How does the homestead exemption work for Fort Lee condos?
 
-The federal homestead exemption of $27,900 per debtor applies to condos the same as houses. It protects your equity (market value minus mortgage balance). For Fort Lee condos with significant equity, Chapter 13 may be preferable to keep your unit while repaying debts.
+The federal homestead exemption of $31,575 per debtor applies to condos the same as houses. It protects your equity (market value minus mortgage balance). For Fort Lee condos with significant equity, Chapter 13 may be preferable to keep your unit while repaying debts.
 
 Check Your Eligibility
 
@@ -2255,7 +2255,7 @@ Verify your zip code falls within the correct filing district.
 
 Federal Exemptions (New Jersey) in Hackensack
 
-New Jersey uses federal bankruptcy exemptions exclusively - one of the few states in the nation that does so. Federal exemptions under 11 U.S.C. section 522(d) apply: Homestead: $27,900. Vehicle: $4,450. Jewelry: $1,875. Tools of trade: $2,800. Wildcard: $1,475 plus up to $13,950 of unused homestead. Household goods: $700 per item, $14,875 total. Retirement accounts: fully exempt.
+New Jersey filers can choose federal bankruptcy exemptions or New Jersey's own limited state exemptions; most choose federal because New Jersey has no state homestead exemption. Federal exemptions under 11 U.S.C. section 522(d) apply: Homestead: $31,575. Vehicle: $5,025. Jewelry: $2,125. Tools of trade: $3,175. Wildcard: $1,675 plus up to $15,800 of unused homestead. Household goods: $800 per item, $16,850 total. Retirement accounts: fully exempt.
 
 Exemptions determine what property you can keep in bankruptcy. See the full exemptions guide.
 
@@ -2391,7 +2391,7 @@ Verify your zip code falls within the correct filing district.
 
 Federal Exemptions (New Jersey) in Hoboken
 
-New Jersey uses federal bankruptcy exemptions exclusively - one of the few states in the nation that does so. Federal exemptions under 11 U.S.C. section 522(d) apply: Homestead: $27,900. Vehicle: $4,450. Jewelry: $1,875. Tools of trade: $2,800. Wildcard: $1,475 plus up to $13,950 of unused homestead. Household goods: $700 per item, $14,875 total. Retirement accounts: fully exempt.
+New Jersey filers can choose federal bankruptcy exemptions or New Jersey's own limited state exemptions; most choose federal because New Jersey has no state homestead exemption. Federal exemptions under 11 U.S.C. section 522(d) apply: Homestead: $31,575. Vehicle: $5,025. Jewelry: $2,125. Tools of trade: $3,175. Wildcard: $1,675 plus up to $15,800 of unused homestead. Household goods: $800 per item, $16,850 total. Retirement accounts: fully exempt.
 
 Exemptions determine what property you can keep in bankruptcy. See the full exemptions guide.
 
@@ -2636,7 +2636,7 @@ Verify your zip code falls within the correct filing district.
 
 Federal Exemptions (New Jersey) in Jersey City
 
-New Jersey uses federal bankruptcy exemptions exclusively - one of the few states in the nation that does so. Federal exemptions under 11 U.S.C. section 522(d) apply: Homestead: $27,900. Vehicle: $4,450. Jewelry: $1,875. Tools of trade: $2,800. Wildcard: $1,475 plus up to $13,950 of unused homestead. Household goods: $700 per item, $14,875 total. Retirement accounts: fully exempt.
+New Jersey filers can choose federal bankruptcy exemptions or New Jersey's own limited state exemptions; most choose federal because New Jersey has no state homestead exemption. Federal exemptions under 11 U.S.C. section 522(d) apply: Homestead: $31,575. Vehicle: $5,025. Jewelry: $2,125. Tools of trade: $3,175. Wildcard: $1,675 plus up to $15,800 of unused homestead. Household goods: $800 per item, $16,850 total. Retirement accounts: fully exempt.
 
 Exemptions determine what property you can keep in bankruptcy. See the full exemptions guide.
 
@@ -2672,7 +2672,7 @@ Jersey City residents file in the District of New Jersey at the Martin Luther Ki
 
 What exemptions apply in Jersey City?
 
-New Jersey is a federal-exemptions-only state - one of the few in the nation. This means the federal bankruptcy exemptions under 11 U.S.C. section 522(d) apply: $27,900 homestead, $4,450 vehicle, $14,875 wildcard, and other specified amounts. New Jersey does not have its own state exemption scheme for bankruptcy.
+New Jersey lets filers choose the federal exemptions or New Jersey's own limited state exemptions, and most choose federal because New Jersey has no state homestead exemption. The federal bankruptcy exemptions under 11 U.S.C. section 522(d) apply: $31,575 homestead, $5,025 vehicle, $17,475 wildcard, and other specified amounts. New Jersey's own state exemptions are limited and include no homestead exemption.
 
 How does the high cost of living in Jersey City affect bankruptcy?
 
@@ -2772,7 +2772,7 @@ Verify your zip code falls within the correct filing district.
 
 Federal Exemptions (New Jersey) in Passaic
 
-New Jersey uses federal bankruptcy exemptions exclusively - one of the few states in the nation that does so. Federal exemptions under 11 U.S.C. section 522(d) apply: Homestead: $27,900. Vehicle: $4,450. Jewelry: $1,875. Tools of trade: $2,800. Wildcard: $1,475 plus up to $13,950 of unused homestead. Household goods: $700 per item, $14,875 total. Retirement accounts: fully exempt.
+New Jersey filers can choose federal bankruptcy exemptions or New Jersey's own limited state exemptions; most choose federal because New Jersey has no state homestead exemption. Federal exemptions under 11 U.S.C. section 522(d) apply: Homestead: $31,575. Vehicle: $5,025. Jewelry: $2,125. Tools of trade: $3,175. Wildcard: $1,675 plus up to $15,800 of unused homestead. Household goods: $800 per item, $16,850 total. Retirement accounts: fully exempt.
 
 Exemptions determine what property you can keep in bankruptcy. See the full exemptions guide.
 
@@ -2921,7 +2921,7 @@ Verify your zip code falls within the correct filing district.
 
 Federal Exemptions (New Jersey) in Paterson
 
-New Jersey uses federal bankruptcy exemptions exclusively - one of the few states in the nation that does so. Federal exemptions under 11 U.S.C. section 522(d) apply: Homestead: $27,900. Vehicle: $4,450. Jewelry: $1,875. Tools of trade: $2,800. Wildcard: $1,475 plus up to $13,950 of unused homestead. Household goods: $700 per item, $14,875 total. Retirement accounts: fully exempt.
+New Jersey filers can choose federal bankruptcy exemptions or New Jersey's own limited state exemptions; most choose federal because New Jersey has no state homestead exemption. Federal exemptions under 11 U.S.C. section 522(d) apply: Homestead: $31,575. Vehicle: $5,025. Jewelry: $2,125. Tools of trade: $3,175. Wildcard: $1,675 plus up to $15,800 of unused homestead. Household goods: $800 per item, $16,850 total. Retirement accounts: fully exempt.
 
 Exemptions determine what property you can keep in bankruptcy. See the full exemptions guide.
 
@@ -2957,7 +2957,7 @@ Paterson residents file in the District of New Jersey at 50 Walnut St, Newark, N
 
 What is the homestead exemption for Paterson homeowners?
 
-New Jersey uses federal bankruptcy exemptions only. The federal homestead exemption is $27,900 per debtor ($55,800 for married couples filing jointly). This may be sufficient for many Paterson homeowners depending on their equity.
+New Jersey filers can choose federal bankruptcy exemptions or New Jersey's own limited state exemptions; most choose federal because New Jersey has no state homestead exemption. The federal homestead exemption is $31,575 per debtor ($63,150 for married couples filing jointly). This may be sufficient for many Paterson homeowners depending on their equity.
 
 Can I file bankruptcy in Spanish in Paterson?
 
@@ -3057,7 +3057,7 @@ Verify your zip code falls within the correct filing district.
 
 Federal Exemptions (New Jersey) in Union City
 
-New Jersey uses federal bankruptcy exemptions exclusively - one of the few states in the nation that does so. Federal exemptions under 11 U.S.C. section 522(d) apply: Homestead: $27,900. Vehicle: $4,450. Jewelry: $1,875. Tools of trade: $2,800. Wildcard: $1,475 plus up to $13,950 of unused homestead. Household goods: $700 per item, $14,875 total. Retirement accounts: fully exempt.
+New Jersey filers can choose federal bankruptcy exemptions or New Jersey's own limited state exemptions; most choose federal because New Jersey has no state homestead exemption. Federal exemptions under 11 U.S.C. section 522(d) apply: Homestead: $31,575. Vehicle: $5,025. Jewelry: $2,125. Tools of trade: $3,175. Wildcard: $1,675 plus up to $15,800 of unused homestead. Household goods: $800 per item, $16,850 total. Retirement accounts: fully exempt.
 
 Exemptions determine what property you can keep in bankruptcy. See the full exemptions guide.
 
@@ -3193,7 +3193,7 @@ Verify your zip code falls within the correct filing district.
 
 Federal Exemptions (New Jersey) in West New York
 
-New Jersey uses federal bankruptcy exemptions exclusively - one of the few states in the nation that does so. Federal exemptions under 11 U.S.C. section 522(d) apply: Homestead: $27,900. Vehicle: $4,450. Jewelry: $1,875. Tools of trade: $2,800. Wildcard: $1,475 plus up to $13,950 of unused homestead. Household goods: $700 per item, $14,875 total. Retirement accounts: fully exempt.
+New Jersey filers can choose federal bankruptcy exemptions or New Jersey's own limited state exemptions; most choose federal because New Jersey has no state homestead exemption. Federal exemptions under 11 U.S.C. section 522(d) apply: Homestead: $31,575. Vehicle: $5,025. Jewelry: $2,125. Tools of trade: $3,175. Wildcard: $1,675 plus up to $15,800 of unused homestead. Household goods: $800 per item, $16,850 total. Retirement accounts: fully exempt.
 
 Exemptions determine what property you can keep in bankruptcy. See the full exemptions guide.
 
@@ -3315,7 +3315,7 @@ When It Makes Sense
 
 Saving your home: If behind on your mortgage, Chapter 13 lets you catch up through the plan
 
-Non-exempt property: If property exceeds New Jersey's exemptions ($27,900 (federal) homestead, $4,450 (federal) vehicle), Chapter 13 lets you keep it
+Non-exempt property: If property exceeds New Jersey's exemptions ($31,575 (federal) homestead, $5,025 (federal) vehicle), Chapter 13 lets you keep it
 
 Means test failure: If you do not qualify for Chapter 7, converting to Chapter 13 avoids dismissal
 
@@ -3327,7 +3327,7 @@ Must have regular income for a Chapter 13 plan
 
 Case must not have been previously converted from Chapter 13
 
-Must be eligible for Chapter 13 (debts within $2,750,000 limit)
+Must be eligible for Chapter 13 (debts within the section 109(e) limits: $526,700 unsecured, $1,580,125 secured)
 
 Chapter 13 to Chapter 7
 
@@ -3361,9 +3361,9 @@ Additional fees may apply
 
 New Jersey Considerations
 
-Exemptions: New Jersey does not have its own bankruptcy exemptions - filers must use the federal exemption system under 11 U.S.C. section 522(d). Conversion may change which property is at risk.
+Exemptions: New Jersey filers can choose either the federal bankruptcy exemptions under 11 U.S.C. section 522(d) or New Jersey's own, limited state exemptions; because New Jersey has no state homestead exemption, most filers choose the federal system. Conversion may change which property is at risk.
 
-Homestead ($27,900 (federal)): If home equity exceeds the exemption, converting to Chapter 13 may be necessary to keep it.
+Homestead ($31,575 (federal)): If home equity exceeds the exemption, converting to Chapter 13 may be necessary to keep it.
 
 Court location: Cases in the District of New Jersey are heard at 50 Walnut St., Newark, NJ 07102.
 
@@ -3732,7 +3732,7 @@ Nearest Courthouse
 
 New Jersey Exemptions in Bergen County
 
-New Jersey state exemptions apply (no federal option). No homestead exemption. Personal property: $1,000. Wages: 90% exempt under 250% poverty. Retirement: fully exempt. Life insurance: exempt. New Jersey exemptions are among the least generous in the nation.
+Filers can choose New Jersey state exemptions or the federal set. New Jersey's state exemptions: No homestead exemption. Personal property: $1,000. Wages: 90% exempt under 250% poverty. Retirement: fully exempt. Life insurance: exempt. New Jersey exemptions are among the least generous in the nation.
 
 Exemptions determine what property you can keep in bankruptcy. See the full exemptions guide.
 
@@ -3838,7 +3838,7 @@ Nearest Courthouse
 
 New Jersey Exemptions in Essex County
 
-New Jersey does not allow federal exemptions. State exemptions are relatively modest. There is no specific homestead exemption in New Jersey. Personal property: $1,000 plus goods and chattels. Vehicle: no specific exemption (use personal property). Wages: 90% of earned wages exempt if income below 250% of poverty line. Retirement accounts: fully exempt. Life insurance and annuity proceeds exempt.
+New Jersey filers can choose the federal exemptions instead of the state set. State exemptions are relatively modest. There is no specific homestead exemption in New Jersey. Personal property: $1,000 plus goods and chattels. Vehicle: no specific exemption (use personal property). Wages: 90% of earned wages exempt if income below 250% of poverty line. Retirement accounts: fully exempt. Life insurance and annuity proceeds exempt.
 
 Exemptions determine what property you can keep in bankruptcy. See the full exemptions guide.
 
@@ -3944,7 +3944,7 @@ Nearest Courthouse
 
 New Jersey Exemptions in Hudson County
 
-New Jersey state exemptions only (no federal option). No homestead exemption. Personal property: $1,000. Wages: 90% exempt below 250% of poverty. Retirement accounts: fully exempt. Life insurance proceeds: exempt.
+Filers can choose New Jersey state exemptions or the federal set. New Jersey's state exemptions: No homestead exemption. Personal property: $1,000. Wages: 90% exempt below 250% of poverty. Retirement accounts: fully exempt. Life insurance proceeds: exempt.
 
 Exemptions determine what property you can keep in bankruptcy. See the full exemptions guide.
 
@@ -4050,7 +4050,7 @@ Nearest Courthouse
 
 New Jersey Exemptions in Passaic County
 
-New Jersey state exemptions only. No homestead exemption. Personal property: $1,000. Wages: 90% exempt below 250% poverty. Retirement accounts: fully exempt. Life insurance: exempt. Federal exemptions not available in New Jersey.
+Filers can choose New Jersey state exemptions or the federal set. New Jersey's state exemptions: No homestead exemption. Personal property: $1,000. Wages: 90% exempt below 250% poverty. Retirement accounts: fully exempt. Life insurance: exempt.
 
 Exemptions determine what property you can keep in bankruptcy. See the full exemptions guide.
 
@@ -4210,7 +4210,7 @@ Chapter 7 Filing Fee
 
 FJC data covering D. New Jersey filings. Source: Federal Judicial Center Integrated Database. Attorney fee ranges are estimates based on local market data.
 
-Exemptions: New Jersey does not allow federal exemptions. You must use New Jersey state exemptions under N.J.S.A. sec. 2A:17-19 et seq. New Jersey has no homestead exemption, which makes Chapter 13 a popular choice for homeowners.
+Exemptions: New Jersey filers can choose the federal exemptions or New Jersey state exemptions under N.J.S.A. sec. 2A:17-19 et seq. New Jersey has no homestead exemption, which makes Chapter 13 a popular choice for homeowners.
 
 For detailed exemption information: bankruptcyexemptionsbystate.com.
 
@@ -4436,7 +4436,7 @@ Fraud Exceptions (section 523(a)(2))
 
 Luxury goods over $800 within 90 days - presumed non-dischargeable
 
-Cash advances over $1,100 within 70 days - presumed non-dischargeable
+Cash advances over $1,250 within 70 days - presumed non-dischargeable
 
 Fraud: Credit obtained with no intent to repay or false application
 
@@ -4456,9 +4456,9 @@ Complete credit counseling within 180 days before filing
 
 New Jersey Considerations
 
-New Jersey's lack of state exemptions means everyone uses the federal system. The federal wildcard exemption ($1,475 plus up to $13,950 of unused homestead) adds flexibility for protecting assets.
+New Jersey's own exemptions are limited, so most filers use the federal system. The federal wildcard exemption ($1,675 plus up to $15,800 of unused homestead) adds flexibility for protecting assets.
 
-Homestead: $27,900 (federal) | Vehicle: $4,450 (federal)
+Homestead: $31,575 (federal) | Vehicle: $5,025 (federal)
 
 Garnishment limit: 10% of gross income (one of the most protective limits in the country)
 
@@ -4773,7 +4773,7 @@ Missing tax returns: Must have filed for the 4 most recent years
 
 Fraud or abuse: Court can dismiss for bad faith under section 707(b)
 
-Debt limits (Chapter 13): Combined debts over $2,750,000 disqualify from Chapter 13
+Debt limits (Chapter 13): Combined debts over the section 109(e) limits ($526,700 unsecured or $1,580,125 secured) disqualify from Chapter 13
 
 Not an individual: Only individuals can file Chapter 13
 
@@ -5015,7 +5015,7 @@ Contempt for non-payment of settlements
 
 New Jersey Considerations
 
-Homestead ($27,900 (federal)): Affects how home is handled in both divorce and bankruptcy
+Homestead ($31,575 (federal)): Affects how home is handled in both divorce and bankruptcy
 
 Median income ($68,047): After divorce, single-filer income may qualify for Chapter 7
 
@@ -5164,9 +5164,9 @@ New Jersey Emergency Filing Details
 
 Court: District of New Jersey at 50 Walnut St., Newark, NJ 07102
 
-Homestead exemption: $27,900 (federal)
+Homestead exemption: $31,575 (federal)
 
-Vehicle exemption: $4,450 (federal)
+Vehicle exemption: $5,025 (federal)
 
 Foreclosure: New Jersey uses judicial, typically taking 12-18 months (the slowest in the United States) - timing of filing relative to foreclosure stage is critical
 
@@ -5327,7 +5327,7 @@ What You Need to Know
 
 Whether you can keep your engagement ring depends on your state's jewelry exemption. Exemption amounts vary wildly - from $150 in Arizona to unlimited in Texas. If your ring's value exceeds the exemption, the trustee could potentially sell it (though this is rare in practice for modest rings). Many people protect rings using wildcard exemptions.
 
-In New Jersey: NJ uses federal exemptions: $1,875 jewelry + unused homestead wildcard.
+In New Jersey: most filers choose federal exemptions: $2,125 jewelry + unused homestead wildcard.
 
 Filed in D.N.J.. Courthouse: 50 Walnut St, Newark NJ.
 
@@ -5475,25 +5475,25 @@ What Are Exemptions?
 
 Bankruptcy exemptions are laws that protect certain property from being taken to pay your creditors. In Chapter 7, non-exempt property can be sold by the trustee. In Chapter 13, the value of non-exempt property affects how much you must pay through your plan.
 
-New Jersey has no state bankruptcy exemptions. Filers must use the federal exemption system under 11 U.S.C. section 522(d). This is unusual - most states have their own exemptions.
+New Jersey filers can choose federal or state bankruptcy exemptions. New Jersey's own exemptions are limited (there is no state homestead exemption), so most filers use the federal system under 11 U.S.C. section 522(d).
 
 Federal Exemptions - Full List
 
-Homestead - $27,900
+Homestead - $31,575
 
-Protects up to $27,900 of equity in your primary residence ($55,800 for married couples filing jointly). Equity is your home's value minus what you owe on the mortgage.
+Protects up to $31,575 of equity in your primary residence ($63,150 for married couples filing jointly). Equity is your home's value minus what you owe on the mortgage.
 
 11 U.S.C. 522(d)(1)
 
-Motor Vehicle - $4,450
+Motor Vehicle - $5,025
 
-Protects up to $4,450 of equity in one motor vehicle. You can supplement this with the wildcard exemption.
+Protects up to $5,025 of equity in one motor vehicle. You can supplement this with the wildcard exemption.
 
 11 U.S.C. 522(d)(2)
 
-Wildcard - $1,475 + Up to $13,950
+Wildcard - $1,675 + Up to $15,800
 
-You get $1,475 to apply to any property. Plus, you can add up to $13,950 of unused homestead exemption. If you do not own a home, your total wildcard can be up to $15,425 - which can protect bank accounts, tax refunds, or other valuable assets.
+You get $1,675 to apply to any property. Plus, you can add up to $15,800 of unused homestead exemption. If you do not own a home, your total wildcard can be up to $17,475 - which can protect bank accounts, tax refunds, or other valuable assets.
 
 11 U.S.C. 522(d)(5)
 
@@ -5501,7 +5501,7 @@ Other Federal Exemptions
 
 PropertyAmountStatute
 
-Household goods, furnishings$700 per item / $14,875 total522(d)(3)
+Household goods, furnishings$800 per item / $16,850 total522(d)(3)
 
 Jewelry$1,875522(d)(4)
 
@@ -5511,7 +5511,7 @@ Life insurance (cash value)$14,875522(d)(8)
 
 Health aidsUnlimited522(d)(9)
 
-Retirement accounts (IRA/401k)Unlimited (ERISA) / $1,512,350 (IRA)522(b)(3)(C)
+Retirement accounts (IRA/401k)Unlimited (ERISA) / $1,711,975 (IRA)522(b)(3)(C)
 
 Social Security benefitsUnlimited42 U.S.C. 407
 
@@ -5521,13 +5521,13 @@ Alimony/child supportUnlimited522(d)(10)
 
 Frequently Asked Questions
 
-Why does New Jersey use federal exemptions?
+Why do most New Jersey filers use federal exemptions?
 
-New Jersey has not enacted its own bankruptcy exemptions. Filers must use the federal exemption system, which includes a $27,900 homestead exemption.
+New Jersey's own bankruptcy exemptions are limited (there is no state homestead exemption), so most filers use the federal exemption system, which includes a $31,575 homestead exemption.
 
 How much vehicle equity can I protect?
 
-The federal vehicle exemption is $4,450. You can supplement this with the wildcard exemption.
+The federal vehicle exemption is $5,025. You can supplement this with the wildcard exemption.
 
 Are retirement accounts protected?
 
@@ -5611,11 +5611,11 @@ Property and Assets
 
 Will I lose my house?
 
-Your homestead exemption protects $27,900 (federal exemption) of equity. In Chapter 13, you can keep your home and catch up on payments. See all exemptions.
+Your homestead exemption protects $31,575 (federal exemption) of equity. In Chapter 13, you can keep your home and catch up on payments. See all exemptions.
 
 Can I keep my car?
 
-New Jersey protects $4,450 (federal exemption) in vehicle equity. In Chapter 13, you can keep your car. Exemption details.
+New Jersey protects $5,025 (federal exemption) in vehicle equity. In Chapter 13, you can keep your car. Exemption details.
 
 What happens to my tax refund?
 
@@ -5814,7 +5814,7 @@ Cure arrears: Spread missed payments over 3-5 years while resuming regular payme
 
 Strip junior liens: If your home is worth less than your first mortgage, second mortgages may be removed
 
-Homestead protection: New Jersey exemption: $27,900 (federal only - NJ has no state exemptions)
+Homestead protection: New Jersey exemption: $31,575 (federal; New Jersey has no state homestead exemption)
 
 Chapter 7 and Foreclosure
 
@@ -5927,7 +5927,7 @@ Disposable Income - Income after allowable expenses. In Chapter 13, all goes to 
 
 E-M
 
-Exemptions - Laws protecting certain property. New Jersey does not have its own bankruptcy exemptions - filers must use the federal exemption system under 11 U.S.C. section 522(d). Key: $27,900 (federal) homestead, $4,450 (federal) vehicle.
+Exemptions - Laws protecting certain property. New Jersey filers can choose either the federal bankruptcy exemptions under 11 U.S.C. section 522(d) or New Jersey's own, limited state exemptions; because New Jersey has no state homestead exemption, most filers choose the federal system. Key: $31,575 (federal) homestead, $5,025 (federal) vehicle.
 
 Foreclosure - Lender takes property when borrower defaults. New Jersey uses judicial, typically taking 12-18 months (the slowest in the United States).
 
@@ -6286,11 +6286,11 @@ Chapter 7: $338 filing + $1,500-$2,500 attorney fees. Chapter 13: $313 + $3,500-
 
 Will I lose my house?
 
-New Jersey homestead exemption: $27,900 (federal). In Chapter 13, you keep your home. Exemptions.
+New Jersey homestead exemption: $31,575 (federal). In Chapter 13, you keep your home. Exemptions.
 
 Can I keep my car?
 
-New Jersey vehicle exemption: $4,450 (federal). Learn more.
+New Jersey vehicle exemption: $5,025 (federal). Learn more.
 
 How long does bankruptcy take?
 
@@ -6512,7 +6512,7 @@ Avoiding Judgment Liens
 
 Under section 522(f), judicial liens impairing an exemption can be removed:
 
-Homestead: If a lien impairs your $27,900 (federal) homestead exemption, you can avoid it
+Homestead: If a lien impairs your $31,575 (federal) homestead exemption, you can avoid it
 
 Personal property: Liens on exempt personal property can also be avoided
 
@@ -6546,7 +6546,7 @@ Yes. The automatic stay immediately stops garnishment the moment you file.
 
 Can I remove a judgment lien from my home?
 
-Possibly. Under section 522(f), judicial liens impairing your $27,900 (federal) homestead exemption can be avoided.
+Possibly. Under section 522(f), judicial liens impairing your $31,575 (federal) homestead exemption can be avoided.
 
 What about money already garnished?
 
@@ -6714,7 +6714,7 @@ Your home is often your most valuable asset. Here is how New Jersey bankruptcy l
 
 New Jersey Homestead Exemption
 
-Exemption amount: $27,900 (federal only - NJ has no state exemptions)
+Exemption amount: $31,575 (federal; New Jersey has no state homestead exemption)
 
 The homestead exemption protects equity in your primary residence. Equity is the difference between your home's value and what you owe on it (mortgages, liens).
 
@@ -7257,7 +7257,7 @@ New Jersey Considerations
 
 Garnishment limit: 10% of gross income (one of the most protective limits in the country). Filing stops garnishment immediately.
 
-Exemptions: New Jersey does not have its own bankruptcy exemptions - filers must use the federal exemption system under 11 U.S.C. section 522(d)
+Exemptions: New Jersey filers can choose either the federal bankruptcy exemptions under 11 U.S.C. section 522(d) or New Jersey's own, limited state exemptions; because New Jersey has no state homestead exemption, most filers choose the federal system
 
 Court: Cases filed in the District of New Jersey at 50 Walnut St., Newark, NJ 07102.
 
@@ -7794,7 +7794,7 @@ A free guide for New Jersey residents. Filed in D.N.J..
 
 What You Need to Know
 
-Yes - ERISA-qualified retirement accounts (401k, 403b, pensions) are 100% exempt under federal law, regardless of value. This is one of the strongest protections in bankruptcy. Traditional and Roth IRAs are exempt up to $1,512,350 (adjusted periodically). SEP-IRAs and SIMPLE IRAs get the same ERISA protection as 401k plans. Your retirement savings are safe.
+Yes - ERISA-qualified retirement accounts (401k, 403b, pensions) are 100% exempt under federal law, regardless of value. This is one of the strongest protections in bankruptcy. Traditional and Roth IRAs are exempt up to $1,711,975 (adjusted periodically). SEP-IRAs and SIMPLE IRAs get the same ERISA protection as 401k plans. Your retirement savings are safe.
 
 In New Jersey: New Jersey provides strong retirement protection. All ERISA plans fully exempt.
 
@@ -7804,7 +7804,7 @@ Frequently Asked Questions
 
 Can I Keep My 401k and Retirement in Bankruptcy?
 
-Yes - ERISA-qualified retirement accounts (401k, 403b, pensions) are 100% exempt under federal law, regardless of value. This is one of the strongest protections in bankruptcy. Traditional and Roth IRAs are exempt up to $1,512,350 (adjusted periodically). SEP-IRAs and SIMPLE IRAs get the same ERISA protection as 401k plans. Your retirement savings are safe.
+Yes - ERISA-qualified retirement accounts (401k, 403b, pensions) are 100% exempt under federal law, regardless of value. This is one of the strongest protections in bankruptcy. Traditional and Roth IRAs are exempt up to $1,711,975 (adjusted periodically). SEP-IRAs and SIMPLE IRAs get the same ERISA protection as 401k plans. Your retirement savings are safe.
 
 How does this work in New Jersey?
 
@@ -7914,7 +7914,7 @@ Must complete all plan payments - lien removal is contingent on plan completion
 
 New Jersey Considerations
 
-Homestead exemption: $27,900 (federal). Affects minimum payment to unsecured creditors.
+Homestead exemption: $31,575 (federal). Affects minimum payment to unsecured creditors.
 
 Foreclosure: New Jersey uses judicial, typically taking 12-18 months (the slowest in the United States).
 
@@ -8085,7 +8085,7 @@ No discharge for the entity - only individuals receive a discharge
 
 Chapter 11 Subchapter V - Small Business Reorganization
 
-Subchapter V (added by the Small Business Reorganization Act of 2019) provides a streamlined reorganization for businesses with less than $7.5 million in debt.
+Subchapter V (added by the Small Business Reorganization Act of 2019) provides a streamlined reorganization for businesses with less than $3,424,000 in debt.
 
 No creditors' committee (lower costs)
 
@@ -8097,7 +8097,7 @@ Only debtor can propose a plan
 
 Chapter 13 - Sole Proprietors
 
-If you are a sole proprietor with less than $2,750,000 in total debt, Chapter 13 lets you reorganize both personal and business debts through a 3-5 year plan while keeping the business operating.
+If you are a sole proprietor with debts under the Chapter 13 limits ($526,700 unsecured, $1,580,125 secured), Chapter 13 lets you reorganize both personal and business debts through a 3-5 year plan while keeping the business operating.
 
 Personal Guarantees
 
