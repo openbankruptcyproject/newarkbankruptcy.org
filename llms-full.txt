@@ -1,6 +1,6 @@
 # newarkbankruptcy.org -- Full Content
 
-> Last updated: 2026-09-25
+> Last updated: 2026-10-28
 
 This file contains the full text content of all pages on newarkbankruptcy.org.
 Part of the Open Bankruptcy Project (openbankruptcyproject.org).
@@ -9680,7 +9680,7 @@ If you are disabled, elderly, or have very limited earning potential, it may be 
 
 Are income-driven repayment plans better?
 
-For federal loans, income-driven plans (IBR, PAYE, SAVE) may reduce payments to $0 with eventual forgiveness. These should be explored before or alongside bankruptcy. Learn more.
+For federal loans, income-driven plans (such as IBR) may reduce payments to $0 with eventual forgiveness. These should be explored before or alongside bankruptcy. Learn more.
 
 Open Bankruptcy Project Network
 
